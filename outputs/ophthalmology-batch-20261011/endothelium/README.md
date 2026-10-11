@@ -23,3 +23,5 @@
 
 - DSEK脱离中间区间与等号边界不补造处置阈值。
 - DSEK可用黏弹剂与DMEK不能用的差异单独保留。
+
+[本主题文字与符号审核记录](text_symbol_audit.md) · [修改清单](text_symbol_audit.csv)

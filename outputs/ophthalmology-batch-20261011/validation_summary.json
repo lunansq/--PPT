@@ -1,5 +1,13 @@
 {
   "topics": 9,
+  "text_and_symbol_audit": {
+    "revision_records": 42,
+    "topics_revised": 7,
+    "native_text_boxes_scanned": 5214,
+    "drug_dose_values_changed": false,
+    "audit_report": "text_symbol_audit.md",
+    "uncertain_age_boundary": "kept verbatim: 8岁以下"
+  },
   "source_categories": {
     "guidelines_and_consensus": 7,
     "individual_studies": 2
