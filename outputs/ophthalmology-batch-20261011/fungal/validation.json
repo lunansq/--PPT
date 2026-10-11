@@ -1,0 +1,65 @@
+{
+  "source_year": 2026,
+  "kind": "单篇回顾性病例系列",
+  "evidence_items": 15,
+  "checks": [
+    {
+      "file": "fungal/A4_bw_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 168,
+      "picture_count": 0,
+      "text_mismatches": 0,
+      "CJK_font_errors": 0,
+      "out_of_bounds": 0
+    },
+    {
+      "file": "fungal/A4_color_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 168,
+      "picture_count": 0,
+      "text_mismatches": 0,
+      "CJK_font_errors": 0,
+      "out_of_bounds": 0
+    },
+    {
+      "file": "fungal/A6_bw_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 40,
+      "picture_count": 0,
+      "text_mismatches": 0,
+      "CJK_font_errors": 0,
+      "out_of_bounds": 0
+    },
+    {
+      "file": "fungal/A6_color_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 40,
+      "picture_count": 0,
+      "text_mismatches": 0,
+      "CJK_font_errors": 0,
+      "out_of_bounds": 0
+    },
+    {
+      "file": "fungal/algorithm_editable.pptx",
+      "pages": 1,
+      "native_shape_count": 33,
+      "picture_count": 0,
+      "text_mismatches": 0,
+      "CJK_font_errors": 0,
+      "out_of_bounds": 0
+    },
+    {
+      "file": "fungal/slides_editable.pptx",
+      "pages": 7,
+      "native_shape_count": 138,
+      "picture_count": 0,
+      "text_mismatches": 0,
+      "CJK_font_errors": 0,
+      "out_of_bounds": 0
+    }
+  ],
+  "pptx_package_checks": "6 of 6 passed",
+  "clinical_numeric_audit": "treatment and measurement values found in cited original pages; undefined content explicitly marked",
+  "visual_review": "slide overview and printable cards reviewed",
+  "windows_wps_runtime_test": "not performed"
+}

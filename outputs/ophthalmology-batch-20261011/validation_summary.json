@@ -1,0 +1,29 @@
+{
+  "topics": 9,
+  "source_categories": {
+    "guidelines_and_consensus": 7,
+    "individual_studies": 2
+  },
+  "main_slide_pages": 67,
+  "evidence_items": 166,
+  "pptx_files": 54,
+  "PPT_Master_delivery_checks": "all passed",
+  "render_text_checks": "all passed",
+  "CJK_span_font_checks": "all passed",
+  "original_pdfs_uploaded": false,
+  "Windows_WPS_runtime_test": "not performed",
+  "numeric_audit_resolution": {
+    "source_numeric_checks": "all treatment/measurement values found in cited pages",
+    "accepted_metadata_flags": [
+      {
+        "doc": "strabismus",
+        "fact": 17,
+        "values": [
+          "2025",
+          "2026"
+        ],
+        "reason": "cross-document year labels, verified against uploaded document titles; not treatment numbers"
+      }
+    ]
+  }
+}
