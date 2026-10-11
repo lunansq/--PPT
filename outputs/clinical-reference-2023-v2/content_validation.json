@@ -1,0 +1,30 @@
+[
+  {
+    "file": "A4_print_layout_editable.pptx",
+    "slides": 2,
+    "text_notes_units_unchanged": true,
+    "unique_ids": true,
+    "native_editable": true
+  },
+  {
+    "file": "A6_cards_editable.pptx",
+    "slides": 2,
+    "text_notes_units_unchanged": true,
+    "unique_ids": true,
+    "native_editable": true
+  },
+  {
+    "file": "clinical_algorithm_editable.pptx",
+    "slides": 1,
+    "text_notes_units_unchanged": true,
+    "unique_ids": true,
+    "native_editable": true
+  },
+  {
+    "file": "clinical_slides_8pages.pptx",
+    "slides": 8,
+    "text_notes_units_unchanged": true,
+    "unique_ids": true,
+    "native_editable": true
+  }
+]
