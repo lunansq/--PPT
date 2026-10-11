@@ -1,0 +1,30 @@
+[
+  {
+    "file": "clinical_slides_color_v3.pptx",
+    "pages": 8,
+    "exact_text_and_notes_preserved": true,
+    "editable_native_objects": true,
+    "unique_shape_ids": true
+  },
+  {
+    "file": "clinical_algorithm_color_v3.pptx",
+    "pages": 1,
+    "exact_text_and_notes_preserved": true,
+    "editable_native_objects": true,
+    "unique_shape_ids": true
+  },
+  {
+    "file": "A6_cards_color_v3.pptx",
+    "pages": 2,
+    "exact_text_and_notes_preserved": true,
+    "editable_native_objects": true,
+    "unique_shape_ids": true
+  },
+  {
+    "file": "A4_cards_color_editable_v3.pptx",
+    "pages": 2,
+    "exact_text_and_notes_preserved": true,
+    "editable_native_objects": true,
+    "unique_shape_ids": true
+  }
+]

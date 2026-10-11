@@ -1,0 +1,38 @@
+[
+  {
+    "file": "A4_cards_bw_editable_v3.pptx",
+    "pdf_matches_all_text_blocks": true,
+    "chinese_spans_use_cjk_font": true,
+    "delivery_check_passed": true
+  },
+  {
+    "file": "clinical_slides_color_v3.pptx",
+    "pdf_matches_all_text_blocks": true,
+    "chinese_spans_use_cjk_font": true,
+    "delivery_check_passed": true
+  },
+  {
+    "file": "A6_cards_bw_v3.pptx",
+    "pdf_matches_all_text_blocks": true,
+    "chinese_spans_use_cjk_font": true,
+    "delivery_check_passed": true
+  },
+  {
+    "file": "clinical_algorithm_color_v3.pptx",
+    "pdf_matches_all_text_blocks": true,
+    "chinese_spans_use_cjk_font": true,
+    "delivery_check_passed": true
+  },
+  {
+    "file": "A6_cards_color_v3.pptx",
+    "pdf_matches_all_text_blocks": true,
+    "chinese_spans_use_cjk_font": true,
+    "delivery_check_passed": true
+  },
+  {
+    "file": "A4_cards_color_editable_v3.pptx",
+    "pdf_matches_all_text_blocks": true,
+    "chinese_spans_use_cjk_font": true,
+    "delivery_check_passed": true
+  }
+]
