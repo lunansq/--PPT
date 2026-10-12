@@ -8,7 +8,7 @@
 
 | 项目 | 固定读取的仓库版本 | 实际用途 |
 | --- | --- | --- |
-| [OpenMedAILab/EyeRAG](https://github.com/OpenMedAILab/EyeRAG/tree/ebfa93a787129a07a3caf3cf35497e1c0ab84991) | `ebfa93a787129a07a3caf3cf35497e1c0ab84991` | 扫描公开眼科资料目录，加入274条指南/共识候选元数据和来源链接；本轮未启动生成式RAG |
+| [OpenMedAILab/EyeRAG](https://github.com/OpenMedAILab/EyeRAG/tree/ebfa93a787129a07a3caf3cf35497e1c0ab84991) | `ebfa93a787129a07a3caf3cf35497e1c0ab84991` | 扫描公开眼科资料目录，加入274条眼科资料候选元数据和来源链接；本轮未启动生成式RAG |
 | [mims-harvard/ToolUniverse](https://github.com/mims-harvard/ToolUniverse/tree/7084ad507dcec0b9f95c4d38f25bde43d5577529) | 仓库声明1.5.6；`7084ad507dcec0b9f95c4d38f25bde43d5577529` | 已读取并使用 [clinical-guidelines skill](https://github.com/mims-harvard/ToolUniverse/blob/7084ad507dcec0b9f95c4d38f25bde43d5577529/skills/tooluniverse-clinical-guidelines/SKILL.md) 的检索及原文回溯流程；实际调用3个检索工具 |
 | [bbylw/MGD](https://github.com/bbylw/MGD/tree/833c20be023ea4b31b267145be1db5a3dc4f2dab) | README声明4.0.0；`833c20be023ea4b31b267145be1db5a3dc4f2dab` | 导入26类指南、10类医学资源的222个导航链接，补充5个中国原文/综合机构入口 |
 
@@ -20,7 +20,7 @@ EyeRAG是眼科RAG项目，MGD是导航网站；这两处仓库没有 `SKILL.md`
 - 全部导航入口227条，包括重复机构在不同专科的入口和医学资源链接，不等于227家独立发布机构。
 - 默认突出AAO、RCOphth、EURETINA、WGA、ICO和中国发布机构、中华医学期刊原文、NICE/WHO等10个相关入口。
 - 9个上传专题的年份及提取表来自已审核PDF；官网是否已有替代版仍待核验。两篇单篇研究继续与指南/共识分别标注。
-- EyeRAG的Markdown是第三方候选材料，DOI和年份仅按标题/头部提取，未自动认为其为权威原文。原文PDF页码未可靠提供的内容不能直接升级为最终临床推荐。
+- EyeRAG的Markdown是第三方候选材料，文献类型标为待核验；DOI和年份仅按标题/头部提取，未自动认为其为权威原文。原文PDF页码未可靠提供的内容不能直接升级为最终临床推荐。
 - EyeRAG公开库不含AAO_PPP正文；未复制或重新发布该正文。
 
 ## ToolUniverse新版检索接入
