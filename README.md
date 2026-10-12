@@ -186,3 +186,7 @@ output/yixueAIganhuo-PPT/<run_id>/
 ## 致谢
 
 本项目的 page worker 大部分参考了 [image-to-editable-ppt-skill](https://github.com/ningzimu/image-to-editable-ppt-skill)，感谢原项目作者的开源工作。
+
+## 眼科资料发现与权威原文核验
+
+[权威来源导航、EyeRAG扩大清单和ToolUniverse检索](docs/clinical-sources/README.md) · [下载离线入口页](docs/clinical-sources/clinical_sources_portal.zip)。包含283条来源记录和227个导航入口，支持查找发布机构、按专题筛选和人工记录版本/临床建议原文。当前受网络限制，未确认官网最新版本；候选资料与指南推荐分别记录。

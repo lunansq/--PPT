@@ -1,0 +1,54 @@
+{
+  "status": "completed_with_errors",
+  "records": [
+    {
+      "name": "NICE_Clinical_Guidelines_Search",
+      "arguments": {
+        "query": "corneal transplantation",
+        "limit": 10
+      },
+      "result": {
+        "status": "error",
+        "data": [],
+        "metadata": {},
+        "error": "Failed to search NICE guidelines: HTTPSConnectionPool(host='www.nice.org.uk', port=443): Max retries exceeded with url: /search?q=corneal+transplantation&type=guidance (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+      },
+      "queried_at": "2026-10-12T04:20:30.176505+00:00",
+      "upstream_commit": "7084ad507dcec0b9f95c4d38f25bde43d5577529",
+      "latest_version_confirmed": false
+    },
+    {
+      "name": "PubMed_Guidelines_Search",
+      "arguments": {
+        "query": "corneal transplantation",
+        "limit": 10
+      },
+      "result": {
+        "status": "error",
+        "data": [],
+        "metadata": {},
+        "error": "Failed to search PubMed: HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=pubmed&term=corneal+transplantation+AND+%28guideline%5BPublication+Type%5D+OR+practice+guideline%5BPublication+Type%5D%29&retmode=json&retmax=10 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+      },
+      "queried_at": "2026-10-12T04:20:29.178285+00:00",
+      "upstream_commit": "7084ad507dcec0b9f95c4d38f25bde43d5577529",
+      "latest_version_confirmed": false
+    },
+    {
+      "name": "EuropePMC_Guidelines_Search",
+      "arguments": {
+        "query": "corneal transplantation",
+        "limit": 10
+      },
+      "result": {
+        "status": "error",
+        "data": [],
+        "metadata": {},
+        "error": "Failed to search Europe PMC: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Max retries exceeded with url: /europepmc/webservices/rest/search?query=TITLE_ABS%3A%28corneal+transplantation%29+AND+%28PUB_TYPE%3A%22guideline%22+OR+PUB_TYPE%3A%22practice+guideline%22+OR+TITLE%3A%22guideline%22+OR+TITLE%3A%22guidelines%22+OR+TITLE%3A%22consensus%22+OR+TITLE%3A%22recommendations%22+OR+TITLE%3A%22position+statement%22%29&format=json&resultType=core&pageSize=10 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 403 Forbidden')))"
+      },
+      "queried_at": "2026-10-12T04:20:29.177683+00:00",
+      "upstream_commit": "7084ad507dcec0b9f95c4d38f25bde43d5577529",
+      "latest_version_confirmed": false
+    }
+  ],
+  "latest_version_confirmed": false
+}

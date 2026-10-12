@@ -1,0 +1,27 @@
+{
+  "status": "planned_not_executed",
+  "jobs": [
+    {
+      "name": "NICE_Clinical_Guidelines_Search",
+      "arguments": {
+        "query": "corneal transplantation",
+        "limit": 10
+      }
+    },
+    {
+      "name": "PubMed_Guidelines_Search",
+      "arguments": {
+        "query": "corneal transplantation",
+        "limit": 10
+      }
+    },
+    {
+      "name": "EuropePMC_Guidelines_Search",
+      "arguments": {
+        "query": "corneal transplantation",
+        "limit": 10
+      }
+    }
+  ],
+  "latest_version_confirmed": false
+}
