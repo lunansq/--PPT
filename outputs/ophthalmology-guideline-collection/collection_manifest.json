@@ -1489,6 +1489,11 @@
       "sha256": "440c02cafbe65dea1dbdbeca15760985ea7da6cebc08fb0f1db165564884af9a"
     },
     {
+      "file": "03_Source_Navigation/clinical_sources_portal.zip",
+      "bytes": 358448,
+      "sha256": "47167545ea8709129dcd0a66101fb5cb9118f324bbd728b6f9f39afdffc348cc"
+    },
+    {
       "file": "03_Source_Navigation/expanded_materials.csv",
       "bytes": 164033,
       "sha256": "abd83dbf358b3954705c42426d52f760809f788f9a09df05f9aed43d4f60a73d"
