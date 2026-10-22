@@ -1,0 +1,35 @@
+[
+  {
+    "id": "lid",
+    "title": "中国干眼患者睑缘管理专家共识（2025）",
+    "version_year": 2025,
+    "publication_year": 2026,
+    "journal_start": 105,
+    "doi": "10.3760/cma.j.cn115989-20250712-00228",
+    "pdf_sha256": "dfec60cc11b60bcc4103cfa2036795bef6cc5219848b846525395f162339d9d1",
+    "content_sha256": "05779d58f05101b539c156cceb2e13703ae47b280b9bd8022e5a5d4e877ab318",
+    "evidence_items": 35
+  },
+  {
+    "id": "nmosd",
+    "title": "中国视神经脊髓炎谱系疾病诊断与治疗指南（2025版）",
+    "version_year": 2025,
+    "publication_year": 2025,
+    "journal_start": 687,
+    "doi": "10.3760/cma.j.cn113694-20250211-00075",
+    "pdf_sha256": "fbf462851d64ccdaf312d915806bcd349b1021fa41d6c2edc855b3e8c0e9ed4e",
+    "content_sha256": "0f0a6ed5576ae32e070c4c4b5e99d2cbf72539533a21e10e9ad23c8128ba016c",
+    "evidence_items": 55
+  },
+  {
+    "id": "mogad",
+    "title": "中国髓鞘少突胶质细胞糖蛋白抗体相关疾病诊断与治疗指南（2025版）",
+    "version_year": 2025,
+    "publication_year": 2025,
+    "journal_start": 704,
+    "doi": "10.3760/cma.j.cn113694-20250112-00023",
+    "pdf_sha256": "1bf4a91478d80b51dff1aca80a3ef29eea1456633f38facac7d8dd8c60dff995",
+    "content_sha256": "b5abf7da6cba938697983889964fec219dcef4c16893d64015cb203aaf8b3532",
+    "evidence_items": 50
+  }
+]

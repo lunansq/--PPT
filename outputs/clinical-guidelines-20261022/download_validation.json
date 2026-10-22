@@ -1,0 +1,26 @@
+[
+  {
+    "file": "clinical_guidelines_2025_three_topics.zip",
+    "bytes": 4895816,
+    "entries": 59,
+    "sha256": "d792e79e02edb44d0f05dffbdcf06b2c666c81bac87aff1f433ea4e7a29e72ea"
+  },
+  {
+    "file": "lid_clinical_reference.zip",
+    "bytes": 1550719,
+    "entries": 18,
+    "sha256": "7ad0bd903b2dae400fcad43ef36cc03c98cf237c02b56f127a9b3a6a89366c41"
+  },
+  {
+    "file": "mogad_clinical_reference.zip",
+    "bytes": 1724599,
+    "entries": 18,
+    "sha256": "e252862c5c3bc30c672d651afc70e1995d049880105d5e560022eb93d264ef31"
+  },
+  {
+    "file": "nmosd_clinical_reference.zip",
+    "bytes": 1612798,
+    "entries": 18,
+    "sha256": "dcba6470c7dd16d865ed8110d33ed4b3522ecbd6be4be5d5031ebd445bd3ef3f"
+  }
+]
