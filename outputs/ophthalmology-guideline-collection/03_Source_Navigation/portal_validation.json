@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "tests": [
+    "283 source records loaded",
+    "10 relevant authority entries rendered",
+    "227 authority/resource entries rendered",
+    "EyeRAG keyword filtering works",
+    "candidate publication type requires original confirmation",
+    "GitHub candidate cannot become original source",
+    "manual record stored without automatic latest-version approval",
+    "all candidate versions remain unconfirmed"
+  ],
+  "documents": 283,
+  "navigation_entries": 227
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "org-97",
+    "name": "AAO (美国眼科学会)",
+    "url": "https://www.aao.org/guidelines-browse",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-98",
+    "name": "RCOphth (英国皇家眼科医师学院)",
+    "url": "https://www.rcophth.ac.uk/resources-listing/?type=clinical-guidelines",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-99",
+    "name": "EURETINA (欧洲视网膜学会)",
+    "url": "https://www.euretina.org/guidelines/",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-100",
+    "name": "WGA (世界青光眼协会)",
+    "url": "https://www.worldglaucoma.org/wga-consensus-reports/",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-101",
+    "name": "ICO (国际眼科理事会)",
+    "url": "https://icoph.org/resources/guidelines/",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-223",
+    "name": "中华医学会",
+    "url": "https://www.cma.org.cn/",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-224",
+    "name": "中华医学期刊全文数据库",
+    "url": "https://medjournals.cn/",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-225",
+    "name": "中华医学会杂志社",
+    "url": "https://www.medjournals.cn/",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-226",
+    "name": "NICE指南总入口",
+    "url": "https://www.nice.org.uk/guidance",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  },
+  {
+    "id": "org-227",
+    "name": "WHO出版物",
+    "url": "https://www.who.int/publications",
+    "checked_on": "2026-10-12",
+    "latest_version_confirmed": false,
+    "status": null,
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "verification_status": "当前环境访问失败；未核验文档版本"
+  }
+]

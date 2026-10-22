@@ -1,0 +1,156 @@
+[
+  {
+    "title": "病毒性角膜内皮炎",
+    "year": "2023",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023",
+    "ppt": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_slides_color_v3.pptx",
+    "preview": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_slides_color_v3.pdf",
+    "flow": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_algorithm_color_v3.pdf",
+    "card": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A6_cards_color_v3.pdf",
+    "research": false
+  },
+  {
+    "title": "角膜塑形镜护理",
+    "year": "2024",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024",
+    "ppt": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "角膜塑形镜验配流程",
+    "year": "2021",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021",
+    "ppt": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "飞秒激光辅助白内障手术",
+    "year": "2018",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018",
+    "ppt": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "斜视诊疗",
+    "year": "2026",
+    "kind": "指南",
+    "folder": "01_Guidelines_and_Consensus/05_Strabismus_2026",
+    "ppt": "01_Guidelines_and_Consensus/05_Strabismus_2026/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/05_Strabismus_2026/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/05_Strabismus_2026/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/05_Strabismus_2026/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "眼内注药后非感染性眼内炎症",
+    "year": "2025",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025",
+    "ppt": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "角膜内皮移植术",
+    "year": "2024",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024",
+    "ppt": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "儿童斜视围手术期管理",
+    "year": "2025",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025",
+    "ppt": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "干眼患者睑缘管理",
+    "year": "2025版／2026刊载",
+    "kind": "专家共识",
+    "folder": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025",
+    "ppt": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "视神经脊髓炎谱系疾病（NMOSD）",
+    "year": "2025",
+    "kind": "指南",
+    "folder": "01_Guidelines_and_Consensus/10_NMOSD_2025",
+    "ppt": "01_Guidelines_and_Consensus/10_NMOSD_2025/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/10_NMOSD_2025/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/10_NMOSD_2025/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/10_NMOSD_2025/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "MOG抗体相关疾病（MOGAD）",
+    "year": "2025",
+    "kind": "指南",
+    "folder": "01_Guidelines_and_Consensus/11_MOGAD_2025",
+    "ppt": "01_Guidelines_and_Consensus/11_MOGAD_2025/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/11_MOGAD_2025/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/11_MOGAD_2025/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/11_MOGAD_2025/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "视网膜静脉阻塞（RVO）三源整合",
+    "year": "2024／2025",
+    "kind": "共识解读＋意见书整合",
+    "folder": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025",
+    "ppt": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/slides_editable.pptx",
+    "preview": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/slides_preview.pdf",
+    "flow": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/algorithm.pdf",
+    "card": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A6_color.pdf",
+    "research": false
+  },
+  {
+    "title": "真菌性角膜溃疡：病损切除联合伏立康唑",
+    "year": "2026",
+    "kind": "单篇回顾性病例系列",
+    "folder": "02_Research_Studies/01_Fungal_keratitis_2026",
+    "ppt": "02_Research_Studies/01_Fungal_keratitis_2026/slides_editable.pptx",
+    "preview": "02_Research_Studies/01_Fungal_keratitis_2026/slides_preview.pdf",
+    "flow": "02_Research_Studies/01_Fungal_keratitis_2026/algorithm.pdf",
+    "card": "02_Research_Studies/01_Fungal_keratitis_2026/A6_color.pdf",
+    "research": true
+  },
+  {
+    "title": "OCTA与阿尔茨海默病",
+    "year": "2026",
+    "kind": "单篇横断面研究",
+    "folder": "02_Research_Studies/02_OCTA_Alzheimer_2026",
+    "ppt": "02_Research_Studies/02_OCTA_Alzheimer_2026/slides_editable.pptx",
+    "preview": "02_Research_Studies/02_OCTA_Alzheimer_2026/slides_preview.pdf",
+    "flow": "02_Research_Studies/02_OCTA_Alzheimer_2026/algorithm.pdf",
+    "card": "02_Research_Studies/02_OCTA_Alzheimer_2026/A6_color.pdf",
+    "research": true
+  }
+]

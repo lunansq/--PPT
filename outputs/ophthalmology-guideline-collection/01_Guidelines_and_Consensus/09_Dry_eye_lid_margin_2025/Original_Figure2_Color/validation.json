@@ -1,0 +1,85 @@
+{
+  "source_figure": "图2",
+  "source_version": 2025,
+  "publication_year": 2026,
+  "source_journal_page": 107,
+  "source_pdf_page": 3,
+  "disease_columns": 8,
+  "native_editable": true,
+  "text_boxes": 48,
+  "missing_rendered_text": [],
+  "images_in_ppt": 0,
+  "canvas_pt": [
+    1600,
+    960
+  ],
+  "source_transcription_sha256": "7b6ea098b8ce427c0e516c0ad81f8223b1b81401078991a48c2566f1da3413c1",
+  "ooxml_schema": "passed",
+  "ppt_master": "passed",
+  "pdf_fonts": [
+    {
+      "name": "BAAAAA+NotoSansCJKsc-Bold",
+      "embedded": true
+    },
+    {
+      "name": "CAAAAA+NotoSansCJKsc-Regular",
+      "embedded": true
+    },
+    {
+      "name": "DAAAAA+LiberationSans",
+      "embedded": true
+    },
+    {
+      "name": "EAAAAA+NotoSansCJKsc-Bold",
+      "embedded": true
+    },
+    {
+      "name": "FAAAAA+NotoSansCJKsc-Regular",
+      "embedded": true
+    },
+    {
+      "name": "GAAAAA+NotoSansCJKsc-Bold",
+      "embedded": true
+    },
+    {
+      "name": "HAAAAA+NotoSansCJKsc-Regular",
+      "embedded": true
+    },
+    {
+      "name": "IAAAAA+LiberationSans",
+      "embedded": true
+    },
+    {
+      "name": "JAAAAA+LiberationSans",
+      "embedded": true
+    },
+    {
+      "name": "KAAAAA+LiberationSans-Bold",
+      "embedded": true
+    },
+    {
+      "name": "LAAAAA+NotoSansCJKsc-Bold",
+      "embedded": true
+    },
+    {
+      "name": "MAAAAA+NotoSansCJKsc-Bold",
+      "embedded": true
+    },
+    {
+      "name": "NAAAAA+LiberationSans-Bold",
+      "embedded": true
+    },
+    {
+      "name": "OAAAAA+NotoSansCJKsc-Regular",
+      "embedded": true
+    },
+    {
+      "name": "PAAAAA+LiberationSans",
+      "embedded": true
+    }
+  ],
+  "source_column_text_matches": true,
+  "visual_review": "passed: all eight columns and arrows; row headings 2+2; no isolated punctuation; 4-松油醇 kept together",
+  "source_C7_word": "厚涂; independently confirmed by visual review and OCR",
+  "text_bounds_within_canvas": true
+}

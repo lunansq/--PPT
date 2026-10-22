@@ -1,0 +1,228 @@
+﻿id,name,category,url,type,origin,verification_status,checked_on,latest_version_confirmed
+org-1,ESC (欧洲心脏病学会),心血管疾病,https://www.escardio.org/Guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-2,AHA/ACC (美国心脏协会/心脏病学会),心血管疾病,https://professional.heart.org/en/guidelines-and-statements,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-3,NICE 心血管指南,心血管疾病,https://www.nice.org.uk/guidance/conditions-and-diseases/cardiovascular-conditions,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-4,JCS (日本循环器学会),心血管疾病,https://www.jcs.or.jp/english/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-5,NHF Australia (澳大利亚心脏基金会),心血管疾病,https://www.heartfoundation.org.au/Bundles/For-Professionals/Clinical-Information,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-6,CCS (加拿大心血管学会),心血管疾病,https://ccs.ca/guidelines-and-position-statement-library/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-7,WHF (世界心脏联盟),心血管疾病,https://www.world-heart-federation.org/resources/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-8,BHS (英国高血压学会),心血管疾病,https://www.bhsoc.org/resources/guidelines-and-protocols/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-9,Endocrine Society (内分泌学会),内分泌与代谢,https://www.endocrine.org/clinical-practice-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-10,ADA (美国糖尿病协会),内分泌与代谢,https://professional.diabetes.org/content-page/practice-guidelines-resources,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-11,ATA (美国甲状腺协会),内分泌与代谢,https://www.thyroid.org/professionals/ata-professional-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-12,AACE (美国临床内分泌医师协会),内分泌与代谢,https://www.aace.com/disease-state-resources,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-13,EASD (欧洲糖尿病研究协会),内分泌与代谢,https://www.easd.org/guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-14,IDF (国际糖尿病联盟),内分泌与代谢,https://www.idf.org/our-activities/advocacy-awareness/resources-and-tools/clinical-guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-15,ETA (欧洲甲状腺协会),内分泌与代谢,https://www.eurothyroid.com/guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-16,ESA (澳大利亚内分泌学会),内分泌与代谢,https://www.endo-society.org.au/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-17,ERS (欧洲呼吸学会),呼吸系统,https://www.ersnet.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-18,ATS (美国胸科学会),呼吸系统,https://www.thoracic.org/statements/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-19,GOLD (全球COPD防治倡议),呼吸系统,https://goldcopd.org/2024-gold-report/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-20,GINA (全球哮喘防治倡议),呼吸系统,https://ginasthma.org/gina-reports/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-21,BTS (英国胸科学会),呼吸系统,https://www.brit-thoracic.org.uk/quality-improvement/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-22,TSANZ (澳大利亚与新西兰胸科学会),呼吸系统,https://www.thoracic.org.au/clinical-resources,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-23,Lung Foundation Australia,呼吸系统,https://www.lungfoundation.com.au/resources/information-for-health-professionals/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-24,AAN (美国神经病学会),神经系统,https://www.aan.com/practice/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-25,EAN (欧洲神经病学会),神经系统,https://www.eaneurology.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-26,Stroke Foundation Australia (澳大利亚卒中基金会),神经系统,https://www.stroke.org.au/inform-me/clinical-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-27,ILAE (国际抗癫痫联盟),神经系统,https://www.ilae.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-28,NICE 神经系统指南,神经系统,https://www.nice.org.uk/guidance/conditions-and-diseases/neurological-conditions,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-29,MDS (国际运动障碍学会),神经系统,https://www.movementdisorders.org/MDS/Resources/Publications-Reviews/Clinical-Practice-Guidelines.htm,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-30,WSO (世界卒中组织),神经系统,https://www.world-stroke.org/resources/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-31,IHS (国际头痛学会),神经系统,https://ihs-headache.org/en/resources/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-32,AGA (美国胃肠病学会),消化系统,https://www.gastro.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-33,ASGE (美国消化内镜学会),消化系统,https://www.asge.org/home/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-34,UEG (欧洲联合胃肠病学会),消化系统,https://www.ueg.eu/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-35,AASLD (美国肝病研究学会),消化系统,https://www.aasld.org/practice-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-36,ESGE (欧洲消化内镜学会),消化系统,https://www.esge.com/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-37,BSG (英国胃肠病学会),消化系统,https://www.bsg.org.uk/clinical-guidance/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-38,EASL (欧洲肝脏研究学会),消化系统,https://www.easl.eu/research/our-contributions/clinical-practice-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-39,WGO (世界胃肠病组织),消化系统,https://www.worldgastroenterology.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-40,NCCN (美国国家综合癌症网络),肿瘤学,https://www.nccn.org/guidelines/category_1,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-41,ESMO (欧洲肿瘤内科学会),肿瘤学,https://www.esmo.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-42,ASCO (美国临床肿瘤学会),肿瘤学,https://www.asco.org/practice-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-43,ASTRO (美国放射肿瘤学会),肿瘤学,https://www.astro.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-44,ACS (美国癌症协会),肿瘤学,https://www.cancer.org/health-care-professionals/american-cancer-society-prevention-early-detection-guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-45,IARC (国际癌症研究机构),肿瘤学,https://www.iarc.who.int/publications/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-46,ESTRO (欧洲放射肿瘤学会),肿瘤学,https://www.estro.org/Science/Guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-47,Macmillan Cancer Support (英国),肿瘤学,https://www.macmillan.org.uk/healthcare-professionals/clinical-guidance,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-48,IDSA (美国感染病学会),感染病学,https://www.idsociety.org/practice-guideline/alphabetical-listing/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-49,WHO (世界卫生组织),感染病学,https://www.who.int/publications/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-50,ESCMID (欧洲临床微生物与感染病学会),感染病学,https://www.escmid.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-51,CDC (美国疾病控制与预防中心),感染病学,https://www.cdc.gov/infectioncontrol/guidelines/index.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-52,ECDC (欧洲疾病预防与控制中心),感染病学,https://www.ecdc.europa.eu/en/publications-data/guidance,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-53,BSAC (英国抗菌化疗学会),感染病学,https://www.bsac.org.uk/antimicrobial-stewardship-from-principles-to-practice/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-54,IAS (国际艾滋病学会),感染病学,https://www.iasociety.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-55,ISHLT (国际心肺移植学会),感染病学,https://www.ishlt.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-56,ACR (美国风湿病学会),风湿免疫学,https://www.rheumatology.org/practice-quality/clinical-support/clinical-practice-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-57,EULAR (欧洲抗风湿病联盟),风湿免疫学,https://www.eular.org/recommendations_management.cfm,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-58,APLAR (亚太风湿病联盟),风湿免疫学,https://www.aplar.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-59,NICE 肌肉骨骼指南,风湿免疫学,https://www.nice.org.uk/guidance/conditions-and-diseases/musculoskeletal-conditions,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-60,BSR (英国风湿病学会),风湿免疫学,https://www.rheumatology.org.uk/practice-quality/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-61,GRAPPA (银屑病及银屑病关节炎研究与评估组),风湿免疫学,https://grappa-group.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-62,KDIGO (全球肾脏病预后倡议),肾脏病学,https://kdigo.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-63,The Renal Association (英国肾脏协会),肾脏病学,https://www.renal.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-64,NKF (美国国家肾脏基金会),肾脏病学,https://www.kidney.org/professionals/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-65,ERA (欧洲肾脏协会),肾脏病学,https://www.era-online.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-66,KHA (澳大利亚肾脏健康协会),肾脏病学,https://www.kidney.org.au/health-professionals/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-67,ISN (国际肾脏病学会),肾脏病学,https://www.theisn.org/initiatives/toolkits/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-68,AAP (美国儿科学会),儿科学,https://www.aap.org/en/practice-management/clinical-practice-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-69,CPS (加拿大儿科学会),儿科学,https://www.caringforkids.cps.ca/handouts/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-70,RCPCH (英国皇家儿科与儿童健康学院),儿科学,https://www.rcpch.ac.uk/resources/clinical-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-71,WHO Child Health (世界卫生组织),儿科学,https://www.who.int/maternal_child_adolescent/documents/child-health/en/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-72,ESPGHAN (欧洲儿科胃肠肝病与营养学会),儿科学,https://www.espghan.org/knowledge-center/publications,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-73,RCH Melbourne (墨尔本皇家儿童医院),儿科学,https://www.rch.org.au/clinicalguide/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-74,ACOG (美国妇产科医师学会),妇产科学,https://www.acog.org/clinical/clinical-guidance,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-75,RCOG (英国皇家妇产科医师学院),妇产科学,https://www.rcog.org.uk/guidance/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-76,FIGO (国际妇产科联盟),妇产科学,https://www.figo.org/resources/figo-statements-and-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-77,ESHRE (欧洲人类生殖与胚胎学会),妇产科学,https://www.eshre.eu/Guidelines-and-Legal,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-78,ISUOG (国际妇产科超声学会),妇产科学,https://www.isuog.org/clinical-resources/isuog-guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-79,SOGC (加拿大妇产科学会),妇产科学,https://www.sogc.org/en/content/guidelines-jogc/guidelines-jogc.aspx,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-80,AAOS (美国骨科医师学会),骨科与运动医学,https://www.aaos.org/quality/quality-programs/clinical-practice-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-81,BOA (英国骨科协会),骨科与运动医学,https://www.boa.ac.uk/standards-guidance/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-82,IOF (国际骨质疏松基金会),骨科与运动医学,https://www.iof.org/resources/clinical-guidance,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-83,ACSM (美国运动医学会),骨科与运动医学,https://www.acsm.org/education-resources/trending-topics-resources,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-84,EFORT (欧洲骨科与创伤学会联盟),骨科与运动医学,https://www.efort.org/education/efort-clinical-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-85,BJSM (英国运动医学杂志指南),骨科与运动医学,https://bjsm.bmj.com/pages/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-86,AUA (美国泌尿外科学会),泌尿外科学,https://www.auanet.org/guidelines-and-quality/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-87,EAU (欧洲泌尿外科学会),泌尿外科学,https://uroweb.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-88,BAUS (英国泌尿外科医师协会),泌尿外科学,https://www.baus.org.uk/professionals/baus_business/publications/guidelines.aspx,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-89,USANZ (澳大利亚与新西兰泌尿外科学会),泌尿外科学,https://www.usanz.org.au/info-resources/clinical-guidance,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-90,ICS (国际尿控协会),泌尿外科学,https://www.ics.org/publications/ics-standards,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-91,ASA (美国麻醉医师学会),麻醉与重症医学,https://www.asahq.org/standards-and-practice-parameters,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-92,ESAIC (欧洲麻醉与重症监护学会),麻醉与重症医学,https://esaic.org/esa-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-93,SCCM (美国重症医学会),麻醉与重症医学,https://www.sccm.org/clinical-resources/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-94,ESICM (欧洲重症医学会),麻醉与重症医学,https://www.esicm.org/resources/guidelines-consensus-statements/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-95,SSC (拯救脓毒症运动),麻醉与重症医学,https://www.survivingsepsis.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-96,WFSA (世界麻醉医师学会联合会),麻醉与重症医学,https://www.wfsahq.org/resources/anaesthesia-tutorial-of-the-week,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-97,AAO (美国眼科学会),眼科学,https://www.aao.org/guidelines-browse,发布机构入口,MGD,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-98,RCOphth (英国皇家眼科医师学院),眼科学,https://www.rcophth.ac.uk/resources-listing/?type=clinical-guidelines,发布机构入口,MGD,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-99,EURETINA (欧洲视网膜学会),眼科学,https://www.euretina.org/guidelines/,发布机构入口,MGD,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-100,WGA (世界青光眼协会),眼科学,https://www.worldglaucoma.org/wga-consensus-reports/,发布机构入口,MGD,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-101,ICO (国际眼科理事会),眼科学,https://icoph.org/resources/guidelines/,发布机构入口,MGD,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-102,AAO-HNS (美国耳鼻喉-头颈外科学会),耳鼻喉科学,https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-103,ENT UK (英国耳鼻喉科),耳鼻喉科学,https://www.entukclinicalguide.com/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-104,EAONO (欧洲耳科与神经耳科学会),耳鼻喉科学,https://www.eaono.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-105,EUFOREA (欧洲过敏与呼吸道疾病论坛),耳鼻喉科学,https://www.euforea.eu/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-106,IFOS (国际耳鼻喉科联合会),耳鼻喉科学,https://www.ifosworld.org/resources,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-107,AAD (美国皮肤病学会),皮肤病学,https://www.aad.org/member/clinical-quality/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-108,BAD (英国皮肤科医师协会),皮肤病学,https://www.bad.org.uk/clinical-standards/clinical-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-109,EDF (欧洲皮肤病学论坛),皮肤病学,https://www.edf.one/home/Guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-110,ILDS (国际皮肤病学会联盟),皮肤病学,https://www.ilds.org/resources/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-111,EADV (欧洲皮肤性病学会),皮肤病学,https://www.eadv.org/scientific-resources/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-112,APA (美国精神病学会),精神病学与心理健康,https://psychiatryonline.org/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-113,NICE 心理健康指南,精神病学与心理健康,https://www.nice.org.uk/guidance/conditions-and-diseases/mental-health-and-behavioural-conditions,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-114,RCPsych (英国皇家精神科医学院),精神病学与心理健康,https://www.rcpsych.ac.uk/improving-care/campaigning-for-better-mental-health-policy/college-reports,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-115,WFSBP (世界生物精神病学会联合会),精神病学与心理健康,https://www.wfsbp.org/educational-activities/wfsbp-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-116,WHO Mental Health (世界卫生组织精神卫生),精神病学与心理健康,https://www.who.int/mental_health/resources/guidelines/en/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-117,CANMAT (加拿大情绪与焦虑治疗网络),精神病学与心理健康,https://www.canmat.org/resources/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-118,ACEP (美国急诊医师学会),急诊医学,https://www.acep.org/patient-care/clinical-policies/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-119,RCEM (英国皇家急诊医学院),急诊医学,https://www.rcem.ac.uk/RCEM/Quality_Policy/Clinical_Standards_Guidance/RCEM_Guidance.aspx,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-120,EuSEM (欧洲急诊医学会),急诊医学,https://www.eusem.org/clinical-practice-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-121,ILCOR (国际复苏联络委员会),急诊医学,https://www.ilcor.org/publications/ilcor-publications,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-122,Resuscitation Council UK (英国复苏委员会),急诊医学,https://www.resus.org.uk/library/2021-resuscitation-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-123,AHA CPR Guidelines (心肺复苏指南),急诊医学,https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-124,ASH (美国血液学会),血液学,https://www.hematology.org/education/clinicians/guidelines-and-quality-care,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-125,EHA (欧洲血液学会),血液学,https://ehaweb.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-126,BSH (英国血液学标准委员会),血液学,https://b-s-h.org.uk/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-127,ISTH (国际血栓与止血学会),血液学,https://www.isth.org/page/Published_Guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-128,WFH (世界血友病联盟),血液学,https://www.wfh.org/en/resources/wfh-guidelines-and-publications,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-129,AAAAI (美国过敏、哮喘与免疫学会),过敏与免疫学,https://www.aaaai.org/practice-management/practice-resources/practice-parameters,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-130,EAACI (欧洲过敏与临床免疫学会),过敏与免疫学,https://www.eaaci.org/resources/guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-131,WAO (世界过敏组织),过敏与免疫学,https://www.worldallergy.org/resources/world-allergy-publications,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-132,BSACI (英国过敏与临床免疫学会),过敏与免疫学,https://www.bsaci.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-133,ACR Appropriateness Criteria (美国放射学会),放射学与影像,https://acsearch.acr.org/list,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-134,RCR (英国皇家放射科医师学院),放射学与影像,https://www.rcr.ac.uk/clinical-radiology/being-a-clinical-radiologist/guidelines-publications/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-135,ESR (欧洲放射学会),放射学与影像,https://www.myesr.org/quality-safety/esr-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-136,RSNA (北美放射学会),放射学与影像,https://www.rsna.org/practice-tools,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-137,SIR (介入放射学会),放射学与影像,https://www.sir.org/practice/clinical-practice-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-138,AGS (美国老年医学会),老年医学与姑息治疗,https://geriatricscareonline.org/ProductStore/guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-139,BGS (英国老年医学会),老年医学与姑息治疗,https://www.bgs.org.uk/resources/good-practice-guides,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-140,EuGMS (欧洲老年医学会),老年医学与姑息治疗,https://www.eugms.org/research-cooperation/special-interest-groups.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-141,EAPC (欧洲姑息治疗协会),老年医学与姑息治疗,https://www.eapcnet.eu/eapc-groups/task-forces-and-steering-committees/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-142,NCHPC (美国临终关怀与姑息治疗联盟),老年医学与姑息治疗,https://www.nationalcoalitionhpc.org/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-143,USPSTF (美国预防服务工作组),预防医学与公共卫生,https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-144,WHO Immunization (世界卫生组织疫苗指南),预防医学与公共卫生,https://www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-145,ACIP (免疫接种实践咨询委员会),预防医学与公共卫生,https://www.cdc.gov/vaccines/hcp/acip-recs/index.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-146,SIGN (苏格兰学院间指南网络),预防医学与公共卫生,https://www.sign.ac.uk/our-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-147,NACI (加拿大国家免疫咨询委员会),预防医学与公共卫生,https://www.phac-aspc.gc.ca/naci-ccni/index-eng.php,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-148,IASP (国际疼痛研究学会),疼痛医学,https://www.iasp-pain.org/resources/guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-149,ASRA (美国区域麻醉与疼痛医学学会),疼痛医学,https://www.asra.com/guidelines-articles,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-150,BPS (英国疼痛学会),疼痛医学,https://www.britishpainsociety.org/british-pain-society-publications/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-151,NICE 慢性疼痛指南,疼痛医学,https://www.nice.org.uk/guidance/conditions-and-diseases/chronic-pain,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-152,CAP (美国病理学家学会),病理学与检验医学,https://www.cap.org/protocols-and-guidelines,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-153,RCPath (英国皇家病理学家学院),病理学与检验医学,https://www.rcpath.org/profession/guidelines.html,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-154,CLSI (临床和实验室标准协会),病理学与检验医学,https://clsi.org/standards/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-155,IFCC (国际临床化学与检验医学联合会),病理学与检验医学,https://www.ifcc.org/ifcc-education-division/emd-committees/c-clinical-practice-guidelines/,发布机构入口,MGD,链接来自MGD，尚未在线核实,,False
+org-156,PubMed,文献数据库,https://pubmed.ncbi.nlm.nih.gov/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-157,Cochrane Library,文献数据库,https://www.cochranelibrary.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-158,Embase,文献数据库,https://www.embase.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-159,Web of Science,文献数据库,https://www.webofscience.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-160,Google Scholar,文献数据库,https://scholar.google.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-161,Scopus,文献数据库,https://www.scopus.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-162,PubMed Central (PMC),文献数据库,https://www.ncbi.nlm.nih.gov/pmc/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-163,The Lens (开放学术搜索),文献数据库,https://www.lens.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-164,NEJM (新英格兰医学杂志),顶级医学期刊,https://www.nejm.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-165,The Lancet (柳叶刀),顶级医学期刊,https://www.thelancet.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-166,JAMA (美国医学会杂志),顶级医学期刊,https://jamanetwork.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-167,The BMJ (英国医学杂志),顶级医学期刊,https://www.bmj.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-168,Annals of Internal Medicine (内科学年鉴),顶级医学期刊,https://www.annals.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-169,Nature Medicine (自然医学),顶级医学期刊,https://www.nature.com/nm/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-170,Cell (细胞),顶级医学期刊,https://www.cell.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-171,Science Translational Medicine,顶级医学期刊,https://www.science.org/journal/stm,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-172,CMAJ (加拿大医学会杂志),顶级医学期刊,https://www.cmaj.ca/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-173,MJA (澳大利亚医学杂志),顶级医学期刊,https://www.mja.com.au/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-174,UpToDate,临床决策支持,https://www.uptodate.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-175,DynaMed,临床决策支持,https://www.dynamed.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-176,BMJ Best Practice,临床决策支持,https://bestpractice.bmj.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-177,MSD Manual (默沙东诊疗手册专业版),临床决策支持,https://www.msdmanuals.com/professional,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-178,ClinicalKey (Elsevier),临床决策支持,https://www.clinicalkey.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-179,VisualDx (可视化诊断工具),临床决策支持,https://www.visualdx.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-180,Epocrates,临床决策支持,https://www.epocrates.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-181,Drugs.com,药物信息,https://www.drugs.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-182,PDR (Physicians' Desk Reference),药物信息,https://www.pdr.net/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-183,EMA (欧洲药品管理局),药物信息,https://www.ema.europa.eu/en/medicines,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-184,FDA Drug Approvals and Databases,药物信息,https://www.accessdata.fda.gov/scripts/cder/daf/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-185,DrugBank,药物信息,https://www.drugbank.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-186,BNF (英国国家处方集),药物信息,https://bnf.nice.org.uk/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-187,EMC (Electronic Medicines Compendium),药物信息,https://www.medicines.org.uk/emc,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-188,WHO Essential Medicines,药物信息,https://www.who.int/medicines/publications/essentialmedicines/en/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-189,Medscape,医学教育与资讯,https://www.medscape.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-190,Mayo Clinic for Medical Professionals,医学教育与资讯,https://www.mayoclinic.org/medical-professionals,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-191,MedlinePlus,医学教育与资讯,https://www.medlineplus.gov/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-192,Khan Academy Health & Medicine,医学教育与资讯,https://www.khanacademy.org/science/health-and-medicine,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-193,Osmosis (医学教育视频),医学教育与资讯,https://www.osmosis.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-194,Radiopaedia (放射学教育),医学教育与资讯,https://radiopaedia.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-195,AMBOSS (医学知识库),医学教育与资讯,https://www.amboss.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-196,LITFL (Life in the Fast Lane 急诊教育),医学教育与资讯,https://litfl.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-197,ClinicalTrials.gov (美国),临床试验,https://www.clinicaltrials.gov/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-198,EU Clinical Trials Register (欧盟),临床试验,https://www.clinicaltrialsregister.eu/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-199,ISRCTN Registry,临床试验,https://www.isrctn.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-200,WHO ICTRP (世界卫生组织国际临床试验注册平台),临床试验,https://trialsearch.who.int/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-201,ANZCTR (澳新临床试验注册),临床试验,https://www.anzctr.org.au/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-202,JMACCT (日本临床试验注册),临床试验,https://www.jmacct.med.or.jp/en/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-203,MDCalc,医学计算器,https://www.mdcalc.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-204,Medscape Calculators,医学计算器,https://reference.medscape.com/public/calculators,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-205,GlobalRPH Medical Calculators,医学计算器,https://globalrph.com/medcalcs/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-206,Calculate by QxMD,医学计算器,https://www.qxmd.com/calculate,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-207,RCCC (肾脏临床计算器),医学计算器,https://www.rccc.eu/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-208,WHO Global Health Observatory,全球卫生与流行病学,https://www.who.int/data/gho,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-209,GBD (全球疾病负担),全球卫生与流行病学,https://vizhub.healthdata.org/gbd-results/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-210,Our World in Data - Health,全球卫生与流行病学,https://ourworldindata.org/health-meta,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-211,IHME (健康指标与评估研究所),全球卫生与流行病学,https://www.healthdata.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-212,UNICEF Data,全球卫生与流行病学,https://data.unicef.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-213,medRxiv (医学预印本),开放获取与预印本,https://www.medrxiv.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-214,bioRxiv (生物学预印本),开放获取与预印本,https://www.biorxiv.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-215,DOAJ (开放获取期刊目录),开放获取与预印本,https://doaj.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-216,NCBI Bookshelf (免费医学书籍),开放获取与预印本,https://www.ncbi.nlm.nih.gov/books/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-217,Open Library - Medicine,开放获取与预印本,https://openlibrary.org/subjects/medicine,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-218,Radiopaedia,医学影像与解剖资源,https://radiopaedia.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-219,ACR Appropriateness Criteria,医学影像与解剖资源,https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-220,IMAIOS (交互式解剖学图谱),医学影像与解剖资源,https://www.imaios.com/en,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-221,Kenhub (解剖学学习),医学影像与解剖资源,https://www.kenhub.com/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-222,Anatomy Atlases,医学影像与解剖资源,https://www.anatomyatlases.org/,医学资源入口,MGD,链接来自MGD，尚未在线核实,,False
+org-223,中华医学会,中国发布机构,https://www.cma.org.cn/,发布机构入口,补充官方入口,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-224,中华医学期刊全文数据库,中国期刊原文,https://medjournals.cn/,发布机构入口,补充官方入口,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-225,中华医学会杂志社,中国期刊原文,https://www.medjournals.cn/,发布机构入口,补充官方入口,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-226,NICE指南总入口,综合指南,https://www.nice.org.uk/guidance,发布机构入口,补充官方入口,当前环境访问失败；未核验文档版本,2026-10-12,False
+org-227,WHO出版物,综合指南,https://www.who.int/publications,发布机构入口,补充官方入口,当前环境访问失败；未核验文档版本,2026-10-12,False

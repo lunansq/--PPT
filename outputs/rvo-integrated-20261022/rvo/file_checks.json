@@ -1,0 +1,160 @@
+{
+  "reports": [
+    {
+      "id": "rvo",
+      "records": [
+        {
+          "file": "rvo/A4_bw_editable.pptx",
+          "pages": 2,
+          "native_shape_count": 168,
+          "raster_images": 0,
+          "text_mismatches": 0,
+          "wrong_CJK_fonts": 0,
+          "shape_bounds_errors": 0,
+          "unembedded_PDF_fonts": 0,
+          "schema_returncode": 0,
+          "ppt_master_returncode": 0
+        },
+        {
+          "file": "rvo/A4_color_editable.pptx",
+          "pages": 2,
+          "native_shape_count": 168,
+          "raster_images": 0,
+          "text_mismatches": 0,
+          "wrong_CJK_fonts": 0,
+          "shape_bounds_errors": 0,
+          "unembedded_PDF_fonts": 0,
+          "schema_returncode": 0,
+          "ppt_master_returncode": 0
+        },
+        {
+          "file": "rvo/A6_bw_editable.pptx",
+          "pages": 2,
+          "native_shape_count": 40,
+          "raster_images": 0,
+          "text_mismatches": 0,
+          "wrong_CJK_fonts": 0,
+          "shape_bounds_errors": 0,
+          "unembedded_PDF_fonts": 0,
+          "schema_returncode": 0,
+          "ppt_master_returncode": 0
+        },
+        {
+          "file": "rvo/A6_color_editable.pptx",
+          "pages": 2,
+          "native_shape_count": 40,
+          "raster_images": 0,
+          "text_mismatches": 0,
+          "wrong_CJK_fonts": 0,
+          "shape_bounds_errors": 0,
+          "unembedded_PDF_fonts": 0,
+          "schema_returncode": 0,
+          "ppt_master_returncode": 0
+        },
+        {
+          "file": "rvo/algorithm_editable.pptx",
+          "pages": 1,
+          "native_shape_count": 51,
+          "raster_images": 0,
+          "text_mismatches": 0,
+          "wrong_CJK_fonts": 0,
+          "shape_bounds_errors": 0,
+          "unembedded_PDF_fonts": 0,
+          "schema_returncode": 0,
+          "ppt_master_returncode": 0
+        },
+        {
+          "file": "rvo/slides_editable.pptx",
+          "pages": 8,
+          "native_shape_count": 171,
+          "raster_images": 0,
+          "text_mismatches": 0,
+          "wrong_CJK_fonts": 0,
+          "shape_bounds_errors": 0,
+          "unembedded_PDF_fonts": 0,
+          "schema_returncode": 0,
+          "ppt_master_returncode": 0
+        }
+      ],
+      "errors": [],
+      "evidence_facts_checked": 53,
+      "visual_review": "passed"
+    }
+  ],
+  "records": [
+    {
+      "file": "rvo/A4_bw_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 168,
+      "raster_images": 0,
+      "text_mismatches": 0,
+      "wrong_CJK_fonts": 0,
+      "shape_bounds_errors": 0,
+      "unembedded_PDF_fonts": 0,
+      "schema_returncode": 0,
+      "ppt_master_returncode": 0
+    },
+    {
+      "file": "rvo/A4_color_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 168,
+      "raster_images": 0,
+      "text_mismatches": 0,
+      "wrong_CJK_fonts": 0,
+      "shape_bounds_errors": 0,
+      "unembedded_PDF_fonts": 0,
+      "schema_returncode": 0,
+      "ppt_master_returncode": 0
+    },
+    {
+      "file": "rvo/A6_bw_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 40,
+      "raster_images": 0,
+      "text_mismatches": 0,
+      "wrong_CJK_fonts": 0,
+      "shape_bounds_errors": 0,
+      "unembedded_PDF_fonts": 0,
+      "schema_returncode": 0,
+      "ppt_master_returncode": 0
+    },
+    {
+      "file": "rvo/A6_color_editable.pptx",
+      "pages": 2,
+      "native_shape_count": 40,
+      "raster_images": 0,
+      "text_mismatches": 0,
+      "wrong_CJK_fonts": 0,
+      "shape_bounds_errors": 0,
+      "unembedded_PDF_fonts": 0,
+      "schema_returncode": 0,
+      "ppt_master_returncode": 0
+    },
+    {
+      "file": "rvo/algorithm_editable.pptx",
+      "pages": 1,
+      "native_shape_count": 51,
+      "raster_images": 0,
+      "text_mismatches": 0,
+      "wrong_CJK_fonts": 0,
+      "shape_bounds_errors": 0,
+      "unembedded_PDF_fonts": 0,
+      "schema_returncode": 0,
+      "ppt_master_returncode": 0
+    },
+    {
+      "file": "rvo/slides_editable.pptx",
+      "pages": 8,
+      "native_shape_count": 171,
+      "raster_images": 0,
+      "text_mismatches": 0,
+      "wrong_CJK_fonts": 0,
+      "shape_bounds_errors": 0,
+      "unembedded_PDF_fonts": 0,
+      "schema_returncode": 0,
+      "ppt_master_returncode": 0
+    }
+  ],
+  "errors": [],
+  "visual_review": "passed: eight slides, six-node algorithm, both A6 faces and A4 monochrome layout inspected"
+}

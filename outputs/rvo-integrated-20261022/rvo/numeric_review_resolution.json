@@ -1,0 +1,17 @@
+[
+  {
+    "fact": "rvo-01",
+    "flag": "2025",
+    "resolution": "SEMI/SERV article DOI on PDF1 contains 2025; article-in-press bibliographic year retained."
+  },
+  {
+    "fact": "rvo-42",
+    "flag": "10",
+    "resolution": "English PDF8 writes first ten days, visually verified; 10 is a faithful numeral translation."
+  },
+  {
+    "fact": "rvo-52",
+    "flag": "186–189 and 264–267",
+    "resolution": "Bibliographic full-upload page ranges, checked against headers of the four pages in each Chinese upload; individual source discussion is cited to p188/p266."
+  }
+]

@@ -1,0 +1,1577 @@
+{
+  "updated": "2026-10-22",
+  "guideline_consensus_integrated_topics": 12,
+  "individual_study_topics": 2,
+  "items": [
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A4_cards_bw_editable_v3.pdf",
+      "bytes": 188006,
+      "sha256": "2db060c395bead59988d1835dd389b7626c973fdd9e55c9260405a6bb596d3d2"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A4_cards_bw_editable_v3.pptx",
+      "bytes": 44031,
+      "sha256": "e09ed4d551bdfb68423673a8d72a06c486b5116ac82f90012fa7bcc6fd416dde"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A4_cards_color_editable_v3.pdf",
+      "bytes": 188956,
+      "sha256": "b25f26555902ddade3547e5d5c7c870abd4f33d2a35af95f0edafd6f937ea111"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A4_cards_color_editable_v3.pptx",
+      "bytes": 44171,
+      "sha256": "3677d584c47707ebfdcc1c725da0fd2d7ed7b252ef5080c49af74c4832b7609a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A6_cards_bw_v3.pdf",
+      "bytes": 177823,
+      "sha256": "2fa9ddd5cf97811106583a69e52c6f44ea1473738cbda3e7f32ef5918fdcb134"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A6_cards_bw_v3.pptx",
+      "bytes": 40151,
+      "sha256": "e150df9b448d06ebe642ca13e065cb5aaec3f9ed0c952175de43e408d3f1de44"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A6_cards_color_v3.pdf",
+      "bytes": 178215,
+      "sha256": "811d762ecb9300220afdee97eb1b48ead887eb58331da878382459d1347475e1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/A6_cards_color_v3.pptx",
+      "bytes": 40335,
+      "sha256": "daf6d4a94c064075aca628edb3fa047a7ea57c1fdf882f03015a75bbadb81f0a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/README.md",
+      "bytes": 2729,
+      "sha256": "bc6d2fa5da82291c03a60b3bf6ed962bfceb4da0269f2c6944f92e3744026e2d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/SHA256SUMS.txt",
+      "bytes": 2004,
+      "sha256": "95d78ee4b88075b078f73e3564892d6d49c9fa766a42ebc3ddceecd17353a19c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/card_color_1_preview.png",
+      "bytes": 158273,
+      "sha256": "68285ed56f3878098ec5facd9a4a2a7f7822416336b652dbc1b7a9be519f9445"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/card_color_2_preview.png",
+      "bytes": 154388,
+      "sha256": "64686c36b9b0e755fc59d431811bfeb934beadef7e4043073d66df8f10d9a2b5"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_algorithm_color_v3.pdf",
+      "bytes": 128341,
+      "sha256": "81999b41a5bfe183a10fa7d8c98a6782ebe0b200b4a0fd67fa27146e2a759184"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_algorithm_color_v3.pptx",
+      "bytes": 16767,
+      "sha256": "4dadb5e43c8a6e83c6b1ca017946b47dc845f8d27343239af8546d4e8540f9f5"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_notes.md",
+      "bytes": 1827,
+      "sha256": "29a7a888b72b334e9ccef072815e48defcb5b1740052588726c1a0bc8d9d4b48"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_slides_color_v3.pdf",
+      "bytes": 460631,
+      "sha256": "bcd941f5e247b20e293c4ce5d8d6820d7454cf0da9ff31f74ea0a631f549690b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/clinical_slides_color_v3.pptx",
+      "bytes": 50618,
+      "sha256": "81b5bc4fb70047c285c1fb4019fcf19be320a17ab01489fa21f1f3ca1c3662f3"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/content_validation.json",
+      "bytes": 720,
+      "sha256": "2d33ce56b7388ccbb66ad997fd20343bf2ed9a62bfd295e802ff5e5fa7619ea9"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/evidence_and_proposed_flow.md",
+      "bytes": 9770,
+      "sha256": "8450a862f229a0aa1c0b70c0d1a868990b4ea7fe5319e8862eec81f2232aa62f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/evidence_and_proposed_flow.pdf",
+      "bytes": 492348,
+      "sha256": "9d9ee34f9d54a7e6961f42ee5db26b3c142a4abaaab3de2c835919f1e6c519d3"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/evidence_table.csv",
+      "bytes": 7504,
+      "sha256": "09e294357609cbb68adde9c401b21427c7dc2120376427345b414cbcd66bf3cc"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/render_validation.json",
+      "bytes": 1003,
+      "sha256": "38f3e59a78ad14fe8697635b4ca8533ac1d0274ae9084f0eea0743eec6c1b75d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/01_Viral_endotheliitis_2023/slides_preview.png",
+      "bytes": 887655,
+      "sha256": "dc8d341ce66368998558ba5a31ada540fc7f7e7cf22d83fad30bea83d65d54a7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A4_bw.pdf",
+      "bytes": 62980,
+      "sha256": "77fa5b7481f50b1ba08c91430b5d37fd116e70e51dab4d6efb30004c5191054f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A4_bw_editable.pptx",
+      "bytes": 47254,
+      "sha256": "9268a6ff0fd2a798eae4f7c7c88688360fd93e8964c0ce3e9befcd810c8fbf38"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A4_color.pdf",
+      "bytes": 63166,
+      "sha256": "ed0b0271afde6a3844ed1a58ae00e07558a1890f2a7fb722ea0de7dc1c89ddcd"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A4_color_editable.pptx",
+      "bytes": 47340,
+      "sha256": "bccb5ddb2dee7c5174465a699b27421937e2e61737c821774e6cbb035c1819dc"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A6_bw.pdf",
+      "bytes": 61509,
+      "sha256": "50d5cd978e601880d829a3aa3c97ee1d0f9da57ee0848ee90046ee1d0957bb84"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A6_bw_editable.pptx",
+      "bytes": 44693,
+      "sha256": "c37ec48cbf8ea8faaabbab578da3992c6e45c79c6936ca91f3a8150347f0cfed"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A6_color.pdf",
+      "bytes": 61678,
+      "sha256": "f6e0c51961423efa5b94ebaf119b70de16cc474740e002f9ab05ebd3c63101bb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/A6_color_editable.pptx",
+      "bytes": 44780,
+      "sha256": "0834bd48e5826d0fb0236fcafad5e512413cf0b128b8aae2c7d963753ab0d276"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/README.md",
+      "bytes": 2652,
+      "sha256": "e11e42aee24521f80cd89152fe104c41b0320cf51293e572ac63bc3bb4773319"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "abc18b081e6bcfce53783d39117146cbd8ff02c815f52433b4864dd524f87e07"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/algorithm.pdf",
+      "bytes": 95764,
+      "sha256": "240480951b368afbd841a950f76988885682eaf7aacbe381e22a32b87bae482f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/algorithm_editable.pptx",
+      "bytes": 39484,
+      "sha256": "064915b7f924ef388c75ff0f8a6f74ab091b8d4e2592f4bef62d5252217a532b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/cards_preview.png",
+      "bytes": 241085,
+      "sha256": "f9f0d9d89cb23fd7a3833079d1c9d717e1adc2d2e0035156419863117ae3a751"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/evidence_and_proposed_flow.md",
+      "bytes": 20615,
+      "sha256": "993e9026cc113e016247c55e8d0457a0e6455e05d693a66d105f618516e00eaa"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/evidence_and_proposed_flow.pdf",
+      "bytes": 157032,
+      "sha256": "e898b169cb021c57a2777eccfd568472a73349d50abb3c3482876e693e7caefb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/evidence_table.csv",
+      "bytes": 16988,
+      "sha256": "b76cd99d43467e434bf7100fe8e99b30c03db5acb54296ea0469a0994192377d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/slides_editable.pptx",
+      "bytes": 69414,
+      "sha256": "830c3c562da1fabfc262819e9ce791d910e23daccf65a3ec46d73fa62232f1ee"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/slides_preview.pdf",
+      "bytes": 269857,
+      "sha256": "1f472f48e18b633b6c2f27a735b34f591dd35a43080d25af595787542fc08b7b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/text_symbol_audit.csv",
+      "bytes": 68,
+      "sha256": "4360746a37bbf986ade6527c707f642eb24c72060ee6ce5fd114b184760e2b3b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/text_symbol_audit.md",
+      "bytes": 1085,
+      "sha256": "e09437392b4b9dc21ea93111025b7fef20346f2b7bcca128edf98cdab4aedc86"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/02_Orthokeratology_care_2024/validation.json",
+      "bytes": 1683,
+      "sha256": "93477de8d98eeda8407b0ce3a7fd8d91b837b7e3137885e84f889baab9ddf1ed"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A4_bw.pdf",
+      "bytes": 67929,
+      "sha256": "505ab5c691a624f9e4580a07fef4af57bfe82dc4e655ea37fbbb7beb1e12f023"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A4_bw_editable.pptx",
+      "bytes": 46961,
+      "sha256": "7022bdf6d7d34b01101e15f89c2f72da1bc2272ab75241f6b709a3572509f99d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A4_color.pdf",
+      "bytes": 68217,
+      "sha256": "d436397b650068fdc3db568eb16bc96eda7ddcb9434e347eebbba8d0e6e02c96"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A4_color_editable.pptx",
+      "bytes": 47130,
+      "sha256": "35e91c6c3f921c50449f2d2e97d22539a862f675cfdba454c56a75cbc314ff42"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A6_bw.pdf",
+      "bytes": 66368,
+      "sha256": "8ec47009e7deb29db460aa10f56dd8cfcc204bb649eb34f41fed3e80c0915734"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A6_bw_editable.pptx",
+      "bytes": 44349,
+      "sha256": "274ab3113f69c9f1db7e383840ee921c957a90f5a847e1eaeeebc105ecfede07"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A6_color.pdf",
+      "bytes": 66637,
+      "sha256": "4fe82b06f562bde34e94bb75a5ad86a730ce0fa28b890f7576fcaa8f8a13b1e1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/A6_color_editable.pptx",
+      "bytes": 44469,
+      "sha256": "b03be1a9495f4482bbb91545148df39779a8c83266ac7ec19f41283792dfcb56"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/README.md",
+      "bytes": 2710,
+      "sha256": "ae2082e754cf9dcfcb8e1c8091b77a0eec2d6cae797609e2e6fe1f6de24feaad"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "61832fd13b02a7dff780b94419bea0727be7a67e53a1aa9b28fc560dc05cf88a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/algorithm.pdf",
+      "bytes": 99334,
+      "sha256": "85168f28fb62eaed541fe55a1e92a0f3164db4a79a5590f0ae5ec275ce526bba"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/algorithm_editable.pptx",
+      "bytes": 39282,
+      "sha256": "45b791de1742f4dcd09504c7f9f16e17b27136f2cba7827c3a6787d6a9104455"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/cards_preview.png",
+      "bytes": 249743,
+      "sha256": "e342eab7ff7a59b93f90df19fff231c00ec40de91718c0714a7fd89f1eb46e3a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/evidence_and_proposed_flow.md",
+      "bytes": 19189,
+      "sha256": "7c603ab28ac9cf9d76115d37f14e1f3cf701bbf568460072c8aa33da04239495"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/evidence_and_proposed_flow.pdf",
+      "bytes": 150419,
+      "sha256": "fc0c9dc6744836f45deaf3ba6e62f12ede867d811d8bddbd07d58c2b611c4fa9"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/evidence_table.csv",
+      "bytes": 15601,
+      "sha256": "ca73ecbfa1bd6169061ee0e31e269e7f022089e42702f37db0ffbe7d67829731"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/slides_editable.pptx",
+      "bytes": 67651,
+      "sha256": "d2021461e5e97bd1bb1b1cb3e083a64adedaedfe2ab80a1a95623e808da9e85c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/slides_preview.pdf",
+      "bytes": 289867,
+      "sha256": "26a23b8e9ccd8ce3b761cbed325e29041286182d972528477528eb427e5b52e9"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/text_symbol_audit.csv",
+      "bytes": 726,
+      "sha256": "20912149ac08dd8bf4832ef4ad55a86069faf3bb514f3919c6e6fde7d130d3cc"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/text_symbol_audit.md",
+      "bytes": 1789,
+      "sha256": "dbec269066f3ff2d5adf10a666532c9854730d98e734475be0c04425422ffd32"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/03_Orthokeratology_fitting_2021/validation.json",
+      "bytes": 1701,
+      "sha256": "a7f8a1e522de29933e775496fcc234eda043349f46c69b904acb1469f24fc688"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A4_bw.pdf",
+      "bytes": 66162,
+      "sha256": "6ebe68e0de1bf2a09beaa7fa8d13e6c9001ff55623aac9de81d4137f69d6cb95"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A4_bw_editable.pptx",
+      "bytes": 46738,
+      "sha256": "bfc089470d134781e0a47cf806c671d6f249114c6f89c48f92dbd3c24331dcea"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A4_color.pdf",
+      "bytes": 66462,
+      "sha256": "e5f3035a083de68bfda2af750b37ab60513d63074c12053875d96eca4903d50b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A4_color_editable.pptx",
+      "bytes": 46900,
+      "sha256": "f9e722cab19465370fa4bc4f86931ca941911448a5b3b2c95b10287222bfb5cd"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A6_bw.pdf",
+      "bytes": 64688,
+      "sha256": "5da1b53fb8cf217a3e76693db2ae58e204aa47bd943ac23570d9673001348b66"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A6_bw_editable.pptx",
+      "bytes": 44180,
+      "sha256": "a31f04fb2ee88932b0c00f89b76094f42dc5215b149d49b10e53776840ad9e1f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A6_color.pdf",
+      "bytes": 64942,
+      "sha256": "0c17688f807733bae95492641ee8b662743c23b48c8659c16a9f4ce01e03c112"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/A6_color_editable.pptx",
+      "bytes": 44304,
+      "sha256": "7b9b6b5da7bd6f63575137a7523e503a4bf431c4e0683f843cb316ebe5017836"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/README.md",
+      "bytes": 2671,
+      "sha256": "a36af6d8295a569ea9130e5308fd51b109f93d1d684bac37508246f113dc83bc"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "f2e128cfb44dc2e3776402c0be60d3c9576985a65925a3e5528b7f43afe13a05"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/algorithm.pdf",
+      "bytes": 103816,
+      "sha256": "798c69d421df1580691adf94cb8ff27041509f6d7abc8ef17c0cc9198f9fa02d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/algorithm_editable.pptx",
+      "bytes": 41786,
+      "sha256": "989540c9d48f4507e12398275837a312bfa2cb02d12eec1e3b3a123bfd3ef734"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/cards_preview.png",
+      "bytes": 243578,
+      "sha256": "6782304ded2e138349bbb85ae761b7834420be3a8a63c33e7b5c2c0ce009bd88"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/evidence_and_proposed_flow.md",
+      "bytes": 20293,
+      "sha256": "ba6ea75e7f2a02c2f83c6af78aabeb67059afbf48428e31a11cea46fb1951685"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/evidence_and_proposed_flow.pdf",
+      "bytes": 184959,
+      "sha256": "47fb5980e6c127d8c5e3555c9af76e2e978d1e69e8f881dfe4f7ac27396b9ed4"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/evidence_table.csv",
+      "bytes": 16765,
+      "sha256": "04692b94f5dd91af2ca0ff5f74399f18fd432b8d9e46c67a27cf9f9350b8d80a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/slides_editable.pptx",
+      "bytes": 72271,
+      "sha256": "590f6a15772b710a26e0c69ea57547b5367e10b0c2a9af38b6c4da63e51c9086"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/slides_preview.pdf",
+      "bytes": 315423,
+      "sha256": "de28c9d8f7b740e921be1672e51d45b684a2b617b4f0561c314c8ce960a78edc"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/text_symbol_audit.csv",
+      "bytes": 471,
+      "sha256": "f0ed43c34c0c2c4bf3b7f7b00ba03270c1c0dda47db49b5369b7a95d8cb3cb09"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/text_symbol_audit.md",
+      "bytes": 1531,
+      "sha256": "bca3d3e69c29a410513ed99b86122fd1cf3b6cf6f0d357e69b2a3e148bf3f61d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/04_Femtosecond_cataract_2018/validation.json",
+      "bytes": 1671,
+      "sha256": "6099d1edca1b75fbaa64f9c41f1df3a0137b3eb187a442965b78286d16f55c51"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A4_bw.pdf",
+      "bytes": 62940,
+      "sha256": "c124b7de866a419866702f80b1bc299515f5ae8b3211e6fd045a3caab5f01e7d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A4_bw_editable.pptx",
+      "bytes": 51557,
+      "sha256": "0123562e77c32f23ed76eb2aa167752f900c01c749a7de3eef62de12c3164a6f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A4_color.pdf",
+      "bytes": 63160,
+      "sha256": "950eee27b4db4de45995c4649bd8f1fde04e61743b6ccd512fd65df47d345ce4"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A4_color_editable.pptx",
+      "bytes": 51649,
+      "sha256": "3fdc88d9b485629097a49901dc3c767ff2162e740c7137aed454d4208596ecfa"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A6_bw.pdf",
+      "bytes": 61378,
+      "sha256": "a600c6c9d75da7d654a7a81fe121ec9da75ead238f33af4a99a4b01dc10e52c2"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A6_bw_editable.pptx",
+      "bytes": 48945,
+      "sha256": "84e8a0bfabc0d7e133faa1a99302f74d827ca3e0859fc41b14e3acc0404793c0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A6_color.pdf",
+      "bytes": 61579,
+      "sha256": "2aa076d0406e6195a089d4e363cda8ac6b4506d4ed24941af6b0c1592e81340a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/A6_color_editable.pptx",
+      "bytes": 49020,
+      "sha256": "4045457a70bec0830dcc225bf6d857bebddcd4ccf0077f57169a49092525842b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/README.md",
+      "bytes": 2932,
+      "sha256": "fe3ff6106b0d143d66bb00949e11dda38387a4103bde896ed8ea6491dd2a9f41"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "4f63264eaefad1d3b588ab70639c8ff7d09561d3868e7b1dc25f97c6856f19f2"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/algorithm.pdf",
+      "bytes": 104903,
+      "sha256": "2593b3e1e290f3adc8893d87b7175bb0363b305a2b2210b7d4d117f7c68b4ffb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/algorithm_editable.pptx",
+      "bytes": 43791,
+      "sha256": "204e5d4f144cf72b90930ca219a75d1d633c95073d0502a12cb94b95ca5d0d37"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/cards_preview.png",
+      "bytes": 266988,
+      "sha256": "dda22331d72a819788c4734cddc9d555b71ed0700861c3e5add1801a4f1c902c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/evidence_and_proposed_flow.md",
+      "bytes": 26257,
+      "sha256": "1b7f2c8ddf267978fc5339159395a23a28094915c3f2b2d7dcd32d0457686e57"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/evidence_and_proposed_flow.pdf",
+      "bytes": 184971,
+      "sha256": "d935a039db2a6dd37e6881dc31f7552a7b50e212191c9923e08f7f469cd6ba09"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/evidence_table.csv",
+      "bytes": 21866,
+      "sha256": "ec80157ebcee71fce197cfb44803e2c97729c2ad51595d987e0e3029581157ba"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/slides_editable.pptx",
+      "bytes": 80141,
+      "sha256": "d49e2eb8ca902a55ca4c693b2ce6850e45a6234194ddd019ca9bc0092b46113f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/slides_preview.pdf",
+      "bytes": 320690,
+      "sha256": "e698584823b16bd45711bea305daf1306fcfda8392aec800445d83b6b148c90e"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/text_symbol_audit.csv",
+      "bytes": 1766,
+      "sha256": "d19b13b463cb2787d3d824da9ae3b8033462ce6b4bbb84047a31b9b966dda32d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/text_symbol_audit.md",
+      "bytes": 2880,
+      "sha256": "c4c007e4711fd83be94de84b0bd82f8ed3e1095dc57af86f0e0da765b50b24b0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/05_Strabismus_2026/validation.json",
+      "bytes": 1695,
+      "sha256": "b74681ec638791c5bbdb9ddba70f1a4e43bb681e5c5ff9bef8a42dd958407b39"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A4_bw.pdf",
+      "bytes": 68273,
+      "sha256": "b1bd507bc6e438dbf158d178c1e212359cb847dce7e86343c1ae5095b12ad257"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A4_bw_editable.pptx",
+      "bytes": 47559,
+      "sha256": "57fe1e85f5509e099cec8131605ea94f4f02718bae1d8e9f7ea3bd5b668f76a1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A4_color.pdf",
+      "bytes": 68497,
+      "sha256": "0192492409d68b2e3d550dae08af54a7ef837b71d30a5222b8a8148ce2c2bea1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A4_color_editable.pptx",
+      "bytes": 47671,
+      "sha256": "20641e4e0242a6bc51f85c4dc425e984adbc100f6c8f15154bb626e3db5063db"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A6_bw.pdf",
+      "bytes": 66673,
+      "sha256": "ed5c4c0fc42abdc1f5bad1a994513dc5936813f4ed219f00fcad60db151901c4"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A6_bw_editable.pptx",
+      "bytes": 44907,
+      "sha256": "fc1dca19ed56f041fedca5e94a396a3b2d44777a52566ede736572f84a50a317"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A6_color.pdf",
+      "bytes": 66871,
+      "sha256": "aeb2363d28bd8a05a2c4ac9105a8d1b72d178eeffbd1bcd304914a8492b5dacb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/A6_color_editable.pptx",
+      "bytes": 44986,
+      "sha256": "8ad6323c4b7de47f27b66a1fef62115c7b681efeac27a7e03371fc9d04412717"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/README.md",
+      "bytes": 2745,
+      "sha256": "e9be68218b4d82e00fbabedc13aa6dc7a48b93c127eb997c64f0d86fc90a897b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "18630a232370eb79188c89cdd4c834adcd0194f025e8acc25a69bb0f263f3a7d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/algorithm.pdf",
+      "bytes": 111004,
+      "sha256": "788601565d12afe381c6d8024e2efd171924cf64be9238bfa5247ee98611e44b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/algorithm_editable.pptx",
+      "bytes": 40964,
+      "sha256": "683eea1ee1eea72431b78a6d8087edbfaae195adccd52ca6a5a77ae0259cd657"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/cards_preview.png",
+      "bytes": 296669,
+      "sha256": "9202893f996eba6d16027e1e3797e58494bf0a9a021e9ba5db810bb804da90ea"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/evidence_and_proposed_flow.md",
+      "bytes": 24633,
+      "sha256": "eb3fcb8747b089d6c3514d882a5a9bf9b279b35e679038111bb2671d789316a6"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/evidence_and_proposed_flow.pdf",
+      "bytes": 190351,
+      "sha256": "bbcfa6c884486ddddeb2e571eae60ef850b21c886e86d0e2155d4f810a441f39"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/evidence_table.csv",
+      "bytes": 20507,
+      "sha256": "c7c3bf4baafc5245caab0c3904f20ebf652c50f1d926b7be0a50c8cf06344430"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/slides_editable.pptx",
+      "bytes": 76789,
+      "sha256": "2b4695e6a77cf38b69aac063e383f411bcad62a7d004afc3313fc47d31ae9de1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/slides_preview.pdf",
+      "bytes": 330688,
+      "sha256": "f433685f783482657c0af2c773e2d33a87e3faea05e6d8d2e91fb64875872fea"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/text_symbol_audit.csv",
+      "bytes": 1284,
+      "sha256": "6905e1bf25ab97fe090c639b9fa0a79c44038c58818deab4ee8e8bcda550e7cb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/text_symbol_audit.md",
+      "bytes": 2389,
+      "sha256": "54703cb1b9dc5dba4c729a83976ecf4a9cb639c26113afff21e48a229d1e4c09"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/06_Intravitreal_noninfectious_inflammation_2025/validation.json",
+      "bytes": 1659,
+      "sha256": "9c69d395d115786a0b81abde6039e0593672e0df1fed56fbc1be3ca969b5c2b7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A4_bw.pdf",
+      "bytes": 80866,
+      "sha256": "21ad95f180d51ae07215110ff1fafb70b4c65e718fcff56b8618ef4da9feb136"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A4_bw_editable.pptx",
+      "bytes": 47572,
+      "sha256": "0962308c081ac2da735339bb57778e2fba63ab6b9bdf8a5170254c879fac4d16"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A4_color.pdf",
+      "bytes": 81144,
+      "sha256": "a31b527e56a2e366565ecfc81aba48d76f955d781a0d2ad7edc5a41f57a73b3f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A4_color_editable.pptx",
+      "bytes": 47718,
+      "sha256": "efb011d1cd9e7b460e29d3cb72961ef56db0e9287c85272358a8b4e7e0c76278"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A6_bw.pdf",
+      "bytes": 79252,
+      "sha256": "abdd98dc4432d973a3be84a1fb022252c3ad5eb128907345f6283620ba3b2ca7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A6_bw_editable.pptx",
+      "bytes": 44973,
+      "sha256": "83541086671da447c76a2ef268bc7b09a907c60fb68f8fb39ea933b11b7cb997"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A6_color.pdf",
+      "bytes": 79507,
+      "sha256": "5e9ed9871312a695f40a107c3123e090fdc1637f430806540dc4b343415c8409"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/A6_color_editable.pptx",
+      "bytes": 45092,
+      "sha256": "fe9be8c4bdcc298c38d772ebb5e0e96143416386287124b9aa07544008e09fe0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/README.md",
+      "bytes": 2599,
+      "sha256": "61f79d47e6ee3ac901a8dad5055ae1a9efe762b96c4202fe070217cf5f7acf85"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "1d7d247f8d7a0ac8337b56cedd62ae05f5d9598bb283369195dbd4230e18c4ef"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/algorithm.pdf",
+      "bytes": 103773,
+      "sha256": "7273c04d8779fe1bb1d875f1cb58d252c2beb2af29fc55399ceca9950a1fd695"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/algorithm_editable.pptx",
+      "bytes": 41531,
+      "sha256": "dece307957622296b35bee02f4ed418ead1e1c3e22162da60054c551fbe38594"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/cards_preview.png",
+      "bytes": 257537,
+      "sha256": "1c6a660d60ffd3ffc22d526c40e775617b4e5089b183bb1db49c6cd45e293097"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/evidence_and_proposed_flow.md",
+      "bytes": 22779,
+      "sha256": "4952332eceedbf92c185cbf09cc92bd00834a9eabb6701e3af4bb84b19441f26"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/evidence_and_proposed_flow.pdf",
+      "bytes": 177676,
+      "sha256": "33144cdffc503a668a19a4225221d8d010fb41d57618ab6b8bf79282f915f07d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/evidence_table.csv",
+      "bytes": 18842,
+      "sha256": "b0fc8e563a9b9b256f7e44da2070984a5f3a7649b604500b3d20e62356cc22ed"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/slides_editable.pptx",
+      "bytes": 75757,
+      "sha256": "41aeee2492872bcefa44567cdc5672eb4fa15a6e2c49acb307422259c47ed976"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/slides_preview.pdf",
+      "bytes": 307528,
+      "sha256": "25ccca152a5d9dca3462bae25d223756250b023e38129b5ad828f59eb795e325"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/text_symbol_audit.csv",
+      "bytes": 2129,
+      "sha256": "297ca95cae0d05393e514c7c714e450a9e6801de9f74c0b1d2279d816ee1c49d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/text_symbol_audit.md",
+      "bytes": 3322,
+      "sha256": "2dbc45c6e1a05693b6c2a238ca30964d6b5f8c0b72de9b9b0e2f517b03ee0362"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/07_Corneal_endothelial_transplant_2024/validation.json",
+      "bytes": 1707,
+      "sha256": "0c7538a4f798646ac8cd58bb5bd70783f6f950504e1b1e5e1b8554409991f1d4"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A4_bw.pdf",
+      "bytes": 71741,
+      "sha256": "92a4d203bdf58bbedb0ea1bf4f2cb731d1604d83520e4ea23fcd382f70c9dff6"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A4_bw_editable.pptx",
+      "bytes": 47918,
+      "sha256": "792eca74c57b82c3618d05b1d497d1fec7896f2a0f85ea50d36344df6387b247"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A4_color.pdf",
+      "bytes": 71996,
+      "sha256": "79dd782eb2130670f22ec4de72b94089692beb2fc4f1b046d7093eeb534ada2a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A4_color_editable.pptx",
+      "bytes": 48048,
+      "sha256": "2bbc9aef1a941ff6cb5667e85e59578e8d98d2f550cb5d190e1b9dd969ef00ee"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A6_bw.pdf",
+      "bytes": 70174,
+      "sha256": "6174830112bde3c94cdc49914ad116637f9f62efc64f9baf7d0fb5f3af9808c4"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A6_bw_editable.pptx",
+      "bytes": 45324,
+      "sha256": "52cf9817a9a54cff07b5fb74a6cbac0e6331b93788dbca454c24a29855f9c678"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A6_color.pdf",
+      "bytes": 70391,
+      "sha256": "be38a71d9785fb34c78854001575187e5af7878973c6793d99b2eccb75dcfcef"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/A6_color_editable.pptx",
+      "bytes": 45422,
+      "sha256": "19c925c225b11449c97aad3754d60eb2a6b9dfeff65544292230dbf496e9e476"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/README.md",
+      "bytes": 2690,
+      "sha256": "68795d63cdf9417e162b50fe67b2c732ebb9b17898ae8c80e1f37d7062a2471a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "2a24c37ea2d79f1bb0b088210df219f8380305434fe2604833f22f9a91dd9af7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/algorithm.pdf",
+      "bytes": 109066,
+      "sha256": "18f37f986cb4044023ef9fcfcce803a7d8300cd0b29319491357f6a361b342a7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/algorithm_editable.pptx",
+      "bytes": 41909,
+      "sha256": "765645144073ea203fac80986765ecc03cf1fd7246a276d11143bec1023617b0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/cards_preview.png",
+      "bytes": 265412,
+      "sha256": "112e763c11b47eb1b22ccfd0f3f056c1b4affdf4223ecc7e9376a41278beec81"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/evidence_and_proposed_flow.md",
+      "bytes": 23317,
+      "sha256": "413277c0d12b1df6473c49cb1495040573487c2059c97afa82ea53f84cfe7fb9"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/evidence_and_proposed_flow.pdf",
+      "bytes": 191941,
+      "sha256": "c4e5ce3471b32afd7b1defb39eea345982d6085e58b4a035f113b67cc8543fc8"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/evidence_table.csv",
+      "bytes": 19318,
+      "sha256": "717a9bbd2f0b4186734243ecb09e17d5aa76b61bb6d23cf7672b8245a7c09c69"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/slides_editable.pptx",
+      "bytes": 76890,
+      "sha256": "3759d23a06c0be6a5696abb7b594f7846a91468314308f209640efce090ee011"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/slides_preview.pdf",
+      "bytes": 331919,
+      "sha256": "53e54fdf4f24fc7f2971d97c687361aa7ec1857c30367378e06692e1a67b1ae6"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/text_symbol_audit.csv",
+      "bytes": 1685,
+      "sha256": "3b55cc9c763a6eb3347f25533d2ff517708e5468221d16f4b4a0ab8c3612eb6c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/text_symbol_audit.md",
+      "bytes": 2841,
+      "sha256": "69c1f1673ca63f16c89c1670e2338d5a08aadd073b0f611a3fd5ec7e7b99df0e"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/08_Pediatric_strabismus_perioperative_2025/validation.json",
+      "bytes": 1695,
+      "sha256": "ff4b938ec877b6185fa2b1cad8727ea37bccf466e6fb3a72fb0dec39e0a02ccc"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A4_bw.pdf",
+      "bytes": 75501,
+      "sha256": "5e79878a12f4783765c5aa103cf79961003b689fc8f708e72ec056c22bc84910"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A4_bw_editable.pptx",
+      "bytes": 44312,
+      "sha256": "13ec0f5e9fd3424547bec171d2803393a73970b2a527eaaf28c0c7cf43cb4dd3"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A4_color.pdf",
+      "bytes": 75805,
+      "sha256": "774e4ec42096f665530af9dcc1d60a4f0fc47d4c0ec615e004917a480af094ed"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A4_color_editable.pptx",
+      "bytes": 44435,
+      "sha256": "655a611e6b663857c2632797aba853c6481a3155b2ae4658660c301913d77789"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A6_bw.pdf",
+      "bytes": 73879,
+      "sha256": "73dea9dd8b7b67ad71ab1ba0c567a79b83274156b9f1c07c3d5a8361131e1d87"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A6_bw_editable.pptx",
+      "bytes": 41676,
+      "sha256": "0ed0380f321aa09c721de52dd023ab32385fb599a5c3b716174876a705d46b8c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A6_color.pdf",
+      "bytes": 74155,
+      "sha256": "8f093d8cef41421da9d735b5eed4d6e077c7bac7fdcfe21dcb8594c146561490"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/A6_color_editable.pptx",
+      "bytes": 41787,
+      "sha256": "ef1860ce6e8f011627ac8c0f935e36bf4e9463703250b8fa70a6a0a6e4b9d410"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/Original_Figure2_Color/README.md",
+      "bytes": 1395,
+      "sha256": "2ae2eeda3b856ef178173bc6cbfaa23b34f70fa96614b48c1aa451c8185d2a93"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/Original_Figure2_Color/SHA256SUMS.txt",
+      "bytes": 450,
+      "sha256": "d4c27b4c45656a2ddcbfa9bfdf7cec7461d2ed7e8facef1d8ca9b05278c8531a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/Original_Figure2_Color/lid_original_fig2_color.pdf",
+      "bytes": 203460,
+      "sha256": "9b079bce067fdb9b1085911701f357e38abcb56687d19f4c1c5e07a96bfa05d2"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/Original_Figure2_Color/lid_original_fig2_color.png",
+      "bytes": 333922,
+      "sha256": "a2f7f96e6944378e8b12c7773f71bba83cfd213888faf8aae7bafe2525e0a3ce"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/Original_Figure2_Color/lid_original_fig2_color_editable.pptx",
+      "bytes": 41003,
+      "sha256": "81082dc95fb44f4a7aa78c4270a9cd4142e9b0dea6d172a1a1c7cda3a0a7d00e"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/Original_Figure2_Color/validation.json",
+      "bytes": 1944,
+      "sha256": "ff72b328e973e3479a8be39b0e887f6e9d2209f7301875817f4edbe6898b5c5c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/README.md",
+      "bytes": 3090,
+      "sha256": "fd6e6cee2b022f55e140fa84449a7fa079d3033fe22e4ff2e05b705f0b856bd9"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/SHA256SUMS.txt",
+      "bytes": 1440,
+      "sha256": "18cfce3430beb13fea06652ea4aecca63340d5d64c200de3412032a2a3035f96"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/algorithm.pdf",
+      "bytes": 152709,
+      "sha256": "b26aaeb2dfe9f2528fb5af3279b53e6f1ea40de124762daae27b82e14854967e"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/algorithm_editable.pptx",
+      "bytes": 39115,
+      "sha256": "0f5b0411e6faf6236c360d193bef28ea02a5299acab8f0b5f70d94dcfec8b53b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/cards_preview.png",
+      "bytes": 315970,
+      "sha256": "897a113b76b61174a72aab5d335d6c58457f9ad185c127c2fa836f6c3d54f4ee"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/evidence_and_proposed_flow.md",
+      "bytes": 20167,
+      "sha256": "f1eeea5bd391ea9e8bc529e0ee3cc0baf18ecd42c287d125d8087475b97a801b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/evidence_and_proposed_flow.pdf",
+      "bytes": 186302,
+      "sha256": "6ea4212abd09d0cf48726aad84a1d69a9a056f29dbf38f70064e625612131df7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/evidence_table.csv",
+      "bytes": 12847,
+      "sha256": "d24efdddd7888fee1206963ddad38584c36bee221d0147c8661e81e09b7f55fb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/slides_editable.pptx",
+      "bytes": 68550,
+      "sha256": "60c15e678047b658404137d97750cf0df34ee54c1abeed4596a8f25ef5bf0b02"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/09_Dry_eye_lid_margin_2025/slides_preview.pdf",
+      "bytes": 413234,
+      "sha256": "0be01dbc30dd9205a96341b516c4f925d835165bffb44401bf899935b48a1df0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A4_bw.pdf",
+      "bytes": 72492,
+      "sha256": "36f643f594d6df1ab7d1149273cb7fb6f66e16580d4832145580bc08bcbce520"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A4_bw_editable.pptx",
+      "bytes": 45057,
+      "sha256": "846302006dfd5057d90aed19a8cbfac75cb1df67222e6a9a092d483e85c61b97"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A4_color.pdf",
+      "bytes": 72773,
+      "sha256": "5da8c789b33b4bccc5d9913f3ead9e864dc3c11bbbb747b198af22ac71b68974"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A4_color_editable.pptx",
+      "bytes": 45181,
+      "sha256": "6968bf62b8e599ff27b50ee105fa482bb1cbc8e006f32f871582170758de8ff7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A6_bw.pdf",
+      "bytes": 70826,
+      "sha256": "4e86923bf4731455ccfeee5522c0522b0cc56826ac129c43657d0a1b0eb7e751"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A6_bw_editable.pptx",
+      "bytes": 42368,
+      "sha256": "9bff910893ae562d1ca7a7e6dcd1bd796f93d1430135cb889b01a2fdcf9c980c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A6_color.pdf",
+      "bytes": 71071,
+      "sha256": "e3ca68f8d2ce183c19d0b84b7c661ff4098e0c928a9c0ab2694c2a339a56c2e1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/A6_color_editable.pptx",
+      "bytes": 42472,
+      "sha256": "432e880d3bf745ec1b5d8387a2435de86e8226f619df23625951a90dc0e6c49f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/README.md",
+      "bytes": 3443,
+      "sha256": "f53310e07bdfd85354b178f0e48984e78550f9d71bdac75346dbb3c3b47c713b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/SHA256SUMS.txt",
+      "bytes": 1440,
+      "sha256": "0cd262bccdd960ec4bf5da1bf9961f1347eeaff8d94da528ac9a812198d1e12b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/algorithm.pdf",
+      "bytes": 154978,
+      "sha256": "8eb7f23e8c03586a898c9f4f9fc4b8e197f2904485dc0ffbc6ce1301c0c75126"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/algorithm_editable.pptx",
+      "bytes": 40457,
+      "sha256": "df241ecd5482685c59267341312989d6296f6306014752009e68790d42032516"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/cards_preview.png",
+      "bytes": 326613,
+      "sha256": "ae17d244fbfb9b15e53ecd6b863c50b3c911d131709985a5d60a20c3318cf11b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/evidence_and_proposed_flow.md",
+      "bytes": 30298,
+      "sha256": "a6250d9e7979b200798e908edb1eff56c7da073d6867b346eae10397cc08a00d"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/evidence_and_proposed_flow.pdf",
+      "bytes": 237854,
+      "sha256": "f34217bc132774e48c2680444c2cdfa17f6d91302c3da659568c6d4c31c25eb1"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/evidence_table.csv",
+      "bytes": 20825,
+      "sha256": "66c6ac7b187a62c1e522671abebaa893e44d06e653a4170d994863ac57cf4eb7"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/slides_editable.pptx",
+      "bytes": 69624,
+      "sha256": "77d6aa6806e8fec4a5b1bdab555a0bd387c8f7669aa080a57e292518476be309"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/10_NMOSD_2025/slides_preview.pdf",
+      "bytes": 414907,
+      "sha256": "09fcce693d585f28ebf3b2e9747a9d475ca4618fff5609672e305c0b8df1ef25"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A4_bw.pdf",
+      "bytes": 87389,
+      "sha256": "33d858ca508de373b14612eea7e13ce29dc5440414040c96d6c8d182cf613160"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A4_bw_editable.pptx",
+      "bytes": 49436,
+      "sha256": "a55f74db41b50bc266736c29331f428fcc077323898e0c864873df44ba5e5c47"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A4_color.pdf",
+      "bytes": 87714,
+      "sha256": "6dff5693314c2d495e8da030a973e849cfcd57c715d95f3b2296a7a1df837e4f"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A4_color_editable.pptx",
+      "bytes": 49587,
+      "sha256": "49f4856ae3bac0c4091d8794e72e905147b8d56e4a9b74fa8a2d673e34c84c34"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A6_bw.pdf",
+      "bytes": 85513,
+      "sha256": "a8bbb1e6bc3b5e01655c9149c40fe9fd4c80a750bcde700770a9ba7759c15b12"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A6_bw_editable.pptx",
+      "bytes": 46654,
+      "sha256": "5e39121a8125442a3bf3f1cd5df45792a411011c44a62527649959cebf9eca19"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A6_color.pdf",
+      "bytes": 85786,
+      "sha256": "75cdf4fa225f31d571773a627b18abc1500241c805cd782e312b8eaa3aa107d5"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/A6_color_editable.pptx",
+      "bytes": 46769,
+      "sha256": "d8bf6a18462324430a0aaecfc447b8fd961c24b4655043db440efba6dcd2d662"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/README.md",
+      "bytes": 3168,
+      "sha256": "4f4cc66e3dafa04e7fc6ef995ae35b1c5519b86b485bda8be20a7a7dc7b71990"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/SHA256SUMS.txt",
+      "bytes": 1440,
+      "sha256": "a09062e69eaf8e9f6ab18c6e98e6ea81dd1caa201b3ae95cd37525817e421800"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/algorithm.pdf",
+      "bytes": 153008,
+      "sha256": "6fb3bb24acf8961185bef260542214880e1e8adbeb885d49973a0d7ce7518406"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/algorithm_editable.pptx",
+      "bytes": 43306,
+      "sha256": "cc734a90d2b1a2900133b884072eba3575b85df72643198ad1ff2575378b55b4"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/cards_preview.png",
+      "bytes": 329761,
+      "sha256": "4cfd95b3856295f9036bd596fdecfd3d64c59bc220cfa3cb870db7243310bc88"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/evidence_and_proposed_flow.md",
+      "bytes": 50344,
+      "sha256": "8f0b0a1d5a6c204f6bde3ba4b6b9ab1a8c1c2d883766395b3d896eeee6f58a96"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/evidence_and_proposed_flow.pdf",
+      "bytes": 263322,
+      "sha256": "7524bca7982871a5d1c04a5460ee7637bf984b038fb20d59f8cf759d103d368a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/evidence_table.csv",
+      "bytes": 41674,
+      "sha256": "c2856e830db56b239769bb3b9bc2a4e26e63839cd15025f469240c809f97da1b"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/slides_editable.pptx",
+      "bytes": 78152,
+      "sha256": "6f229041601f5d39b2f12fe9f440f698c42af4e5853c3df1525a32dc4c035fec"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/11_MOGAD_2025/slides_preview.pdf",
+      "bytes": 404187,
+      "sha256": "3ea183cf836c9b23b5e1688d88911fa59d8e6f54ccdc668ff37a1f4b5c63f722"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A4_bw.pdf",
+      "bytes": 76234,
+      "sha256": "e3e39bfaaa0358d814d8b4d415092010b3228b5ed766a267e34745b6b9951f3c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A4_bw_editable.pptx",
+      "bytes": 52705,
+      "sha256": "542952d7c527e1d9787f315b8b084bbd38b71d60a6275e74c57f350627bf91ee"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A4_color.pdf",
+      "bytes": 76572,
+      "sha256": "c753d53fa24cf30a73860c84cffef4d6d26ba31c11f26d12284a81c24331dee0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A4_color_editable.pptx",
+      "bytes": 52882,
+      "sha256": "156266ad97dd7bc341e4ef039260e99e3c17b95aec702b259653acc92021c164"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A6_bw.pdf",
+      "bytes": 74548,
+      "sha256": "91b89922260e52efe567bb93d030990c0e165bc663182610defce37da8d3d30c"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A6_bw_editable.pptx",
+      "bytes": 49955,
+      "sha256": "79b10acd20093c9e7cdd8706ced94453bd44c6574e26a4d61d765feafc2a6477"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A6_color.pdf",
+      "bytes": 74834,
+      "sha256": "87d0ad9acaeaaa277a5ab57ed246adc23ced52c2e6a53b7bde0685c1ba7154fb"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/A6_color_editable.pptx",
+      "bytes": 50077,
+      "sha256": "ae9c9f72cfd99d01a8e22c689082577fd382889cb1c1696892c78a482c75e716"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/README.md",
+      "bytes": 2040,
+      "sha256": "aa86cf4e5c1c7a1f2ae070cdc4d743de2758b1388a0c82fa2fb3e809ad315d97"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/SHA256SUMS.txt",
+      "bytes": 1793,
+      "sha256": "7ba64c5592734f0816619ba74982e784c0e064857b3fa0af7c034ff0cf2a9860"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/algorithm.pdf",
+      "bytes": 144468,
+      "sha256": "bbf3825b9865fc041da063018891b1a3d1ac9f242e0b82778a23fd1bec00d149"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/algorithm_editable.pptx",
+      "bytes": 44756,
+      "sha256": "0e8c09083c364195a1a7de21402a6bf0142bb8ca392ac2cd2d18fb1178985ce9"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/algorithm_preview.png",
+      "bytes": 316111,
+      "sha256": "3ba37bc6235d2c3f3843bb586079938a5968e6b62ccc1769a4057e311a306282"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/cards_preview.png",
+      "bytes": 354420,
+      "sha256": "68dac12810a3c946f0750b2e134a15b8f9baa5e6e8427ba53487d87fe38139c0"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/clinical_review.md",
+      "bytes": 1975,
+      "sha256": "bb0b65b4ede019f8fa2326d8c6940125350414188ad4158aa7046c6624becc05"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/evidence_and_proposed_flow.md",
+      "bytes": 69415,
+      "sha256": "ade748a6d3e84347903464b5ac0134c118bcb8ec9e92303c108f91c3960c7ece"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/evidence_and_proposed_flow.pdf",
+      "bytes": 296820,
+      "sha256": "19b4bafded941c4e7debd6b6a848462f21a8379793c410f9d7bf0b6e34f21b1a"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/evidence_table.csv",
+      "bytes": 58485,
+      "sha256": "4d0a554c47305a34a7609bf2d98f00e3ff9c964bce13dfb779fac8a2426d9953"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/file_checks.json",
+      "bytes": 4400,
+      "sha256": "b210c65d38f8ee95f44bf520524bf5115570b5ba97ebef97bb8118f3b2c00525"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/numeric_review_resolution.json",
+      "bytes": 573,
+      "sha256": "dacd1dea2cf4372f03a656961278a94132419f157957dbdf9b9629d5e2ef2369"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/slides_editable.pptx",
+      "bytes": 83493,
+      "sha256": "efe81a678a3d4d2c7658f82bdbae86496408b4256a19e93c098fef52ff96caf2"
+    },
+    {
+      "file": "01_Guidelines_and_Consensus/12_RVO_integrated_2024_2025/slides_preview.pdf",
+      "bytes": 425156,
+      "sha256": "c88af561acfccfef0684afae8421c2a377a55f40b32d57f6eaeb5a4c554b15d5"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A4_bw.pdf",
+      "bytes": 65978,
+      "sha256": "77b796da43f04407dc4b7b1d193683e432a7cbdd8687c25381ff8546e5762b34"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A4_bw_editable.pptx",
+      "bytes": 45469,
+      "sha256": "42ff5c0ff6f7550a45969d1be0af8195797c20a6e57c9cd5976bce2f0a25cef0"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A4_color.pdf",
+      "bytes": 66310,
+      "sha256": "92666c4e88dc120e7daf8bd5524921095acf43fa23c6735a6e52dc4cb9de711c"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A4_color_editable.pptx",
+      "bytes": 45616,
+      "sha256": "93a91009c407cab09cca2530858ea887a0fd2d5297a1e406176447f5e5b6a22c"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A6_bw.pdf",
+      "bytes": 64515,
+      "sha256": "388db9c07ec706e3e81c233a2e5a765d7327bf02966cce06df6f8622f4d21ac9"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A6_bw_editable.pptx",
+      "bytes": 42908,
+      "sha256": "704ea843a619f2d3c22d826438c1abba2051adb9831c92d776dc4d683d9433d2"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A6_color.pdf",
+      "bytes": 64788,
+      "sha256": "1bd35403c06916236d98af9ec7b6d18f8a74f66c0047cf63e662565e76c5733b"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/A6_color_editable.pptx",
+      "bytes": 43035,
+      "sha256": "b27a0f72b86364699b33ebf5e097e257be3ec1092c5e6946c08c6965849a200a"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/README.md",
+      "bytes": 2746,
+      "sha256": "a2fb8daf3fa5889ca98b36334ac78c2be5b7f96530a0e51e04c8016bd50dc2c3"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "f9490c0769f25976c12fe649497dc665e4f8f5640a4c970a959a7f2743e3017a"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/algorithm.pdf",
+      "bytes": 103208,
+      "sha256": "42850accee75c61460f8bf57dfe2212935b74220f204a5d80bb5bb68fcf7c15c"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/algorithm_editable.pptx",
+      "bytes": 38317,
+      "sha256": "aaec682bbbb240f2a4d4110e1d765a9d0a737df2d30667af8013e5ea9ac23f40"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/cards_preview.png",
+      "bytes": 262819,
+      "sha256": "96b1c7b524fc48c44abf7662c186195f92630c71b639bc99ab02ac0970f6191e"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/evidence_and_proposed_flow.md",
+      "bytes": 16442,
+      "sha256": "32f9aff4916232c5c12930853a7b8bdf62ef266fc4905eb2f0d8fb5c8ecf16a3"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/evidence_and_proposed_flow.pdf",
+      "bytes": 140684,
+      "sha256": "9cf8a1b20fca3b56feaad793c26d4704d34eafbbf04b95702946049492b82f3f"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/evidence_table.csv",
+      "bytes": 13150,
+      "sha256": "aa6e00ba07b1c5d46f267b5031986798204be40a20f72c0f8e836b3d850d0340"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/slides_editable.pptx",
+      "bytes": 65459,
+      "sha256": "0b468091967f312cee49c8273bc8d146a1c6e58536ea8f64bbcb60357e15683c"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/slides_preview.pdf",
+      "bytes": 275647,
+      "sha256": "646c34f5a22a0ed46fd3fefb975e6fa3234e4d8c81a435e5c984cbdf2a75b2a8"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/text_symbol_audit.csv",
+      "bytes": 68,
+      "sha256": "4360746a37bbf986ade6527c707f642eb24c72060ee6ce5fd114b184760e2b3b"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/text_symbol_audit.md",
+      "bytes": 1118,
+      "sha256": "b2893289b3aa8b5ff4f48e883565ec8cafa9b8508699f18b6c80ebc5645eed48"
+    },
+    {
+      "file": "02_Research_Studies/01_Fungal_keratitis_2026/validation.json",
+      "bytes": 1692,
+      "sha256": "437a96a6534ff089b8781154da2333ddf6db4c8cd8ecc0abc43745ce61bce07a"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A4_bw.pdf",
+      "bytes": 53378,
+      "sha256": "b394b3dae9dc77a8ebb242e34d4cc83570a07bf4f630367c4c5d05df4685ed29"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A4_bw_editable.pptx",
+      "bytes": 44092,
+      "sha256": "6c97a1b8c9100d544ed4471fc0f58cad66d1a6f52c3d61213baa0b2503b0bcf0"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A4_color.pdf",
+      "bytes": 53644,
+      "sha256": "cb7424266be560f4b642419d642e2eea16c3b12271381f2945f67ef655f3c8bc"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A4_color_editable.pptx",
+      "bytes": 44214,
+      "sha256": "398ec0cf5935b869199ad39043d1b5679d2b609b78103e475df16428f5e6a943"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A6_bw.pdf",
+      "bytes": 51944,
+      "sha256": "fc6cc3120f90a3e57de5c62e703c934efc5edf995b74054ae09099fec87ddc48"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A6_bw_editable.pptx",
+      "bytes": 41529,
+      "sha256": "20c79d74216362d82096b7faa11750d19e1c406ea6da9fb395d9888786e9cef8"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A6_color.pdf",
+      "bytes": 52174,
+      "sha256": "2f01e260ccf8d82ced6458e055002a0bbd852dc3f85a07e7bc86b0f317025492"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/A6_color_editable.pptx",
+      "bytes": 41627,
+      "sha256": "9c7ca2a6f1b8eb5171f782fbe8d905cfa4375cb98676c76032a28c854de1c8ba"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/README.md",
+      "bytes": 2612,
+      "sha256": "dd9fc3eaf6e1d1c395f5d664856345eb72e1b18a26647fdf872e40d33ca8560c"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/SHA256SUMS.txt",
+      "bytes": 1697,
+      "sha256": "b4c8acc1bcda1f4334162f87d2f3ab8589880f74e298db287eb7aebd965c12e9"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/algorithm.pdf",
+      "bytes": 101935,
+      "sha256": "d0043027d808cb3d23159b555e95c317933924fde43258b8f86e26eb93eaf223"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/algorithm_editable.pptx",
+      "bytes": 38633,
+      "sha256": "2a41f5b1413de0187d7a0e7b474a82adc64c871e9e8dc53da5a66740cd7196a5"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/cards_preview.png",
+      "bytes": 232529,
+      "sha256": "69e69a124daa3c4c23bf1fca779704605048cc13289016e59ce0f91bceff8159"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/evidence_and_proposed_flow.md",
+      "bytes": 10071,
+      "sha256": "3fd0ed1086f69c0f42b5ddc84d309542e28b4d20552d651efb12ab9784134d50"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/evidence_and_proposed_flow.pdf",
+      "bytes": 98678,
+      "sha256": "6d5ced6a0c1130220b492cc8bd8ddbe3bc5a0fa38338a9233fc87b91541d9286"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/evidence_table.csv",
+      "bytes": 6892,
+      "sha256": "ff06eb51c2a87445785d48f5ce53a291a9d20e460807372a98f75b0d79a861a8"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/slides_editable.pptx",
+      "bytes": 63154,
+      "sha256": "030f8b18d2fd2df275a3cd5a210f066af6bb9b8751d1692c5fc7ac6e0cce11f5"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/slides_preview.pdf",
+      "bytes": 267108,
+      "sha256": "c69177b3676a9ab3cfcdd04584ee7dfc36c0abaf9a5cacbf4bbd766a317f92b9"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/text_symbol_audit.csv",
+      "bytes": 961,
+      "sha256": "8c58f6f112f9e772cef143d1c92a586db2159cdd5e3ae606bf5c922936c5cf35"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/text_symbol_audit.md",
+      "bytes": 2052,
+      "sha256": "61ebcd7024a8713323a8c20f497803e22c12d5ba46d8b19efb7b13b550501d74"
+    },
+    {
+      "file": "02_Research_Studies/02_OCTA_Alzheimer_2026/validation.json",
+      "bytes": 1674,
+      "sha256": "db3c06264aa1a799833e0bc25532dd1b7bd6ee3c760ddde152a2deaef059ca3f"
+    },
+    {
+      "file": "03_Source_Navigation/README.md",
+      "bytes": 6303,
+      "sha256": "edeed759c2d6a6a78c609b9ae3501a8c154c7cbda790b130eb6a537a2cc67866"
+    },
+    {
+      "file": "03_Source_Navigation/SHA256SUMS.txt",
+      "bytes": 1114,
+      "sha256": "063e18ed9c45f947f47080983cfe3b30f4e8f2630c88af1cd6f7bffd22fefb89"
+    },
+    {
+      "file": "03_Source_Navigation/catalog.json",
+      "bytes": 359587,
+      "sha256": "440c02cafbe65dea1dbdbeca15760985ea7da6cebc08fb0f1db165564884af9a"
+    },
+    {
+      "file": "03_Source_Navigation/expanded_materials.csv",
+      "bytes": 164033,
+      "sha256": "abd83dbf358b3954705c42426d52f760809f788f9a09df05f9aed43d4f60a73d"
+    },
+    {
+      "file": "03_Source_Navigation/index.html",
+      "bytes": 335062,
+      "sha256": "c95a3e60499cac1a557ac86e911c31b6cd880228c7d7272cf8c8106a7fa207a5"
+    },
+    {
+      "file": "03_Source_Navigation/licenses/EyeRAG-LICENSE.txt",
+      "bytes": 1070,
+      "sha256": "e7257ab44464083e751192bf95e89ac8bf848e933e0706f2351acaa0e3f0a273"
+    },
+    {
+      "file": "03_Source_Navigation/licenses/MGD-LICENSE.txt",
+      "bytes": 1061,
+      "sha256": "c72048bd8baf2d36574e8900c033e67cea873677bf1d6d2cdbe8a33f64efed0a"
+    },
+    {
+      "file": "03_Source_Navigation/licenses/ToolUniverse-LICENSE.txt",
+      "bytes": 11351,
+      "sha256": "d0fd2a0c2969573ae74147b7400bbb57e6a5b334816beea15475f29fd5deeb49"
+    },
+    {
+      "file": "03_Source_Navigation/official_entry_checks.json",
+      "bytes": 3642,
+      "sha256": "8c1f7ef0d4639a2180ec4693e5b80af08e6a15569bfae78c3e36d795e04fa205"
+    },
+    {
+      "file": "03_Source_Navigation/portal.template.html",
+      "bytes": 18516,
+      "sha256": "226f3821e72dc71d8b7769e81d99db958e7c6e5865ce17e404985171f741b89a"
+    },
+    {
+      "file": "03_Source_Navigation/portal_preview.png",
+      "bytes": 205568,
+      "sha256": "a4afcac83677ffc6ed2cb45272259cfbf6b3ef5dfed25a4e68c8afd7198abc27"
+    },
+    {
+      "file": "03_Source_Navigation/portal_validation.json",
+      "bytes": 488,
+      "sha256": "fdcad0e6bd82f956844af1f1c539d93c55d5f652a5ba98acf6f1d87a4a42ca71"
+    },
+    {
+      "file": "03_Source_Navigation/publisher_entries.csv",
+      "bytes": 38840,
+      "sha256": "fcccd7b3aa15f70892637bbe5d3438fdc41bc828329a2759ed998dafc47b4836"
+    },
+    {
+      "file": "03_Source_Navigation/retrieval_execution.json",
+      "bytes": 2639,
+      "sha256": "a829adeed1f85e0a16fbafefe6c67dc556a04b37840429d0a9b08900d192a9d3"
+    },
+    {
+      "file": "03_Source_Navigation/retrieval_plan.json",
+      "bytes": 545,
+      "sha256": "43a3baa35c71fdcd1389b0ac644eb11dea506c3480e666c87387f5d31c598863"
+    },
+    {
+      "file": "03_Source_Navigation/retrieval_status.json",
+      "bytes": 2126,
+      "sha256": "7664320e7c933daf707bfaf696108792c002232a7b69db01ce50dbcfbb5b4648"
+    },
+    {
+      "file": "03_Source_Navigation/tool_contracts.json",
+      "bytes": 23188,
+      "sha256": "7e5ef19dfbcd6dcf340b1ba185791600c6bd365c2f00928948688d4744eaecfa"
+    },
+    {
+      "file": "README.md",
+      "bytes": 7233,
+      "sha256": "e35da457f45ed69ac170fa30926cf9f9033db5fcf0208617be2317cb376a20df"
+    },
+    {
+      "file": "catalog.json",
+      "bytes": 7776,
+      "sha256": "342e5e4ae58232a0d9148fbeb8938e91703570193d1ea0840e8616c61eba0c29"
+    },
+    {
+      "file": "index.html",
+      "bytes": 10590,
+      "sha256": "0338f220526dcd9c83b1fd240653d6ae25db3042948526fd2f7d928b8d1fd7a9"
+    }
+  ]
+}
