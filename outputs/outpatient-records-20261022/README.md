@@ -21,3 +21,11 @@ ZIP中包含同一份Word文档。Windows下载后选择“全部解压”，再
 - [下载门诊病历模板Word](https://github.com/lunansq/--PPT/raw/refs/heads/codex-outpatient-word-download-20261022/outputs/outpatient-records-20261022/csc_2025_outpatient_template.docx)
 
 依据用户上传的2025年APVRS/AAPPO/ARI共识（DOI: 10.1016/j.apjo.2025.100252）制作，重点文件含PDF页码和声明编号。门诊模板区分急性、慢性/持续或复发、合并MNV等处理分支。未上传原始PDF及全文提取。个体病史和处方保留填写项，临床审核待完成。
+
+## 青光眼：原模板审阅与指南整合修订
+
+- [指南整合与原模板审阅意见（Word）](https://github.com/lunansq/--PPT/raw/refs/heads/codex-outpatient-word-download-20261022/outputs/outpatient-records-20261022/glaucoma_guideline_review.docx)
+- [常规门诊修订版（Word）](https://github.com/lunansq/--PPT/raw/refs/heads/codex-outpatient-word-download-20261022/outputs/outpatient-records-20261022/glaucoma_outpatient_revised.docx)
+- [急性闭角急诊记录附页（Word）](https://github.com/lunansq/--PPT/raw/refs/heads/codex-outpatient-word-download-20261022/outputs/outpatient-records-20261022/glaucoma_acute_angle_closure_record.docx)
+
+根据用户提供的7份指南/共识及自写病历审阅。按常规门诊与急性闭角急诊分开记录，新增逐眼目标眼压、房角/视神经证据、结构功能趋势、用药安全和分层随访。仅上传整理后的Word，未上传原始PDF及用户原稿。具体诊疗仍需临床医师审核。
