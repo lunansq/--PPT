@@ -29,3 +29,9 @@ ZIP中包含同一份Word文档。Windows下载后选择“全部解压”，再
 - [急性闭角急诊记录附页（Word）](https://github.com/lunansq/--PPT/raw/refs/heads/codex-outpatient-word-download-20261022/outputs/outpatient-records-20261022/glaucoma_acute_angle_closure_record.docx)
 
 根据用户提供的7份指南/共识及自写病历审阅。按常规门诊与急性闭角急诊分开记录，新增逐眼目标眼压、房角/视神经证据、结构功能趋势、用药安全和分层随访。仅上传整理后的Word，未上传原始PDF及用户原稿。具体诊疗仍需临床医师审核。
+
+## 青光眼门诊病历分场景整合版（2026-10-23）
+
+[下载Word整合版](https://github.com/lunansq/--PPT/raw/refs/heads/codex-outpatient-word-download-20261022/outputs/outpatient-records-20261022/glaucoma_four_scenarios_integrated.docx)
+
+将此前审阅意见落实为开角型初诊、闭角相关非急性就诊、已确诊常规复诊和急性闭角发作四个独立场景，附处方和复诊记录表。按病情选用，未提供患者资料的项目保留填写项，临床审核待完成。
